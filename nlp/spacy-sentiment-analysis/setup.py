@@ -1,0 +1,18 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="spacy-sentiment-analysis",
+    version="1.0.0",
+    description="Advanced NLP pipeline for sentiment analysis with sarcasm detection",
+    author="Vitor Anjos",
+    packages=find_packages(),
+    install_requires=[
+        "spacy>=3.0.0",
+        "pandas>=1.3.0", 
+        "transformers>=4.20.0",
+        "torch>=1.9.0",
+        "spacytextblob>=0.1.5",
+        "reportlab>=3.6.0",
+    ],
+    python_requires=">=3.8",
+)
