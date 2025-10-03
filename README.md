@@ -121,6 +121,14 @@ pip install -r requirements.txt
 # Launch Jupyter
 jupyter notebook
 
+---
 
+***
+
+*"Transforming raw data into intelligent solutions through machine learning and natural language processing"*
+
+***
+
+**📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023**
 
 
