@@ -20,3 +20,21 @@ This project builds a sophisticated natural language processing pipeline using S
 - Achieved 100% scores on key NLP tasks using SpaCy and custom methods
 - Leveraged transformers for state-of-the-art sarcasm detection
 - Applied model tuning and validation in complex text classification scenarios
+
+
+## 🚀 Installation & Usage
+
+### Prerequisites
+- Python 3.8+
+- spaCy English model
+
+### Quick Start
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Download spaCy model
+python -m spacy download en_core_web_sm
+
+# Run Jupyter notebook
+jupyter notebook your_notebook_name.ipynb
