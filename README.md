@@ -100,6 +100,14 @@ Comprehensive data analysis and visualization on real-world datasets using advan
 
 ---
 
+ "Transforming raw data into intelligent solutions through machine learning and natural language processing"
+
+---
+
+📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023
+
+---
+
 ## 🚀 Getting Started
 
 ```bash
@@ -113,17 +121,6 @@ pip install -r requirements.txt
 # Launch Jupyter
 jupyter notebook
 
----
 
- "Transforming raw data into intelligent solutions through machine learning and natural language processing"
 
----
-
-📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023
-
----
-
-# Data Science Portfolio
-
-A curated collection of data science projects demonstrating skills in data analysis, machine learning, natural language processing, and Python programming. Includes exploratory data analysis, classification and regression modeling, NLP sentiment analysis with sarcasm detection, and fundamental neural network implementations.
 
