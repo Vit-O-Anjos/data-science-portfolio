@@ -123,6 +123,20 @@ jupyter notebook
 
 ---
 
-### "Transforming raw data into intelligent solutions through machine learning and natural language processing"
+\`\`\`bash
+# Clone repository
+git clone https://github.com/Vit-O-Anjos/your-repo-name.git
+cd your-repo-name
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch Jupyter
+jupyter notebook
+\`\`\`
+
+---
+
+### *"Transforming raw data into intelligent solutions through machine learning and natural language processing"*
 
 ## 📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023
