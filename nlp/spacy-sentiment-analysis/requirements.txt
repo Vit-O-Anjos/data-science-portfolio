@@ -4,3 +4,4 @@ transformers>=4.20.0
 torch>=1.9.0
 spacytextblob>=0.1.5
 reportlab>=3.6.0
+jupyter>=1.0.0
