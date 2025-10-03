@@ -120,3 +120,10 @@ jupyter notebook
 ---
 
 📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023
+
+---
+
+# Data Science Portfolio
+
+A curated collection of data science projects demonstrating skills in data analysis, machine learning, natural language processing, and Python programming. Includes exploratory data analysis, classification and regression modeling, NLP sentiment analysis with sarcasm detection, and fundamental neural network implementations.
+
