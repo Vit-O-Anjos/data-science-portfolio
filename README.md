@@ -3,21 +3,7 @@ A curated collection of data science projects demonstrating skills in data analy
 
 # Vitor Anjos - Data Scientist
 
-**Data Scientist | Machine Learning & NLP Specialist**
-
----
-
-## 📜 Certifications & Training
-
-### 📊 Data Science & Analytics
-- **Data Science Certificate, HyperionDev** – 98% Overall Grade (Imperial College London endorsed) – [Verify](https://www.hyperiondev.com/portfolio/VD23110014103/)
-- **Post-Assessment MCQ** – 100% Score
-- **Technical Portfolio Certification** – 100% Score
-
-### 🤖 Machine Learning Specializations
-- **Supervised Learning** – Random Forests (100%), Decision Trees (100%), Linear/Logistic Regression (100%/88%)
-- **Unsupervised Learning** – K-means Clustering (88%), Neural Networks (100%)
-- **Natural Language Processing** – SpaCy (100%)
+**Data Analyst | Data Scientist | Machine Learning & NLP Specialist**
 
 ---
 
@@ -80,36 +66,6 @@ Comprehensive data analysis and visualization on real-world datasets using advan
 
 ---
 
-## 📈 GitHub Portfolio Structure
-
-github-profile/
-│
-├── 🤖 machine-learning/
-│ ├── handwritten-digit-classification
-│ ├── neural-network-logic-gates
-│ └── random-forest-modeling
-│
-├── 🔤 natural-language-processing/
-│ ├── sentiment-sarcasm-detection
-│ ├── spacy-text-analysis
-│ └── transformer-models
-│
-├── 📊 data-analysis/
-│ ├── exploratory-data-analysis
-│ ├── data-visualization
-│ └── statistical-modeling
-│
-├── 💻 software-engineering/
-│ ├── object-oriented-programming
-│ ├── file-io-operations
-│ └── modular-python-code
-│
-└── 📝 certifications/
-└── data-science-certificates
-
-
----
-
 ## 📊 Skills Matrix
 
 | Category | Proficiency | Key Technologies |
@@ -156,6 +112,6 @@ pip install -r requirements.txt
 # Launch Jupyter
 jupyter notebook
 
-    "Transforming raw data into intelligent solutions through machine learning and natural language processing"
+  #  "Transforming raw data into intelligent solutions through machine learning and natural language processing"
 
-📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023
+## 📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023
