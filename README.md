@@ -104,7 +104,7 @@ Comprehensive data analysis and visualization on real-world datasets using advan
 
 ---
 
-📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023
+📊 Data Science Portfolio | Vitor Anjos | Last Updated: October 2025
 
 ---
 
