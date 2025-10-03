@@ -82,23 +82,11 @@ Advanced image classification using Random Forests with comprehensive hyperparam
 **Technologies:** `Python` `scikit-learn` `Random Forests` `hyperparameter optimization`  
 **Key Achievements:** Achieved 100% score in supervised learning tasks with robust model performance
 
-### 💬 Sentiment & Sarcasm Detection
-Sophisticated NLP pipeline for Amazon reviews analysis featuring sentiment classification with sarcasm detection capabilities using transformer-based approaches.
-
-**Technologies:** `SpaCy` `Transformers` `sentiment analysis` `text classification`  
-**Key Achievements:** 100% score in NLP tasks with SpaCy implementation
-
 ### 🧠 Neural Network Logic Gates
 Implementation of neural networks modeling complex logic gates (XOR, AND, OR) demonstrating deep understanding of neural network architectures and training.
 
 **Technologies:** `TensorFlow` `Neural Networks` `backpropagation` `activation functions`  
 **Key Achievements:** 100% score in neural network exploration tasks
-
-### 📊 Exploratory Data Analysis
-Comprehensive data analysis and visualization on real-world datasets using advanced statistical methods and interactive visualizations.
-
-**Technologies:** `pandas` `matplotlib` `seaborn` `statistical analysis`  
-**Key Achievements:** Multiple 100% scores in data visualization and analysis tasks
 
 ---
 
