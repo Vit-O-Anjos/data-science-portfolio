@@ -14,6 +14,16 @@ I transform complex data into actionable insights through machine learning, stat
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a Data Scientist and Python Developer with deep expertise in machine learning, neural network architecture, and natural language processing. I specialize in transforming raw and complex data into intelligent solutions using predictive modeling, sarcasm-aware sentiment analysis, and exploratory data analysis that drives actionable business insights. I have engineered neural networks from scratch to model complex logic gates, optimized Random Forests with hyperparameter tuning, and developed modular, scalable ML pipelines using object-oriented Python.
+
+My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and SpaCy—applied across real-world datasets and projects with consistent top-tier performance. I am actively seeking opportunities where I can apply my skills in machine learning, advanced NLP, and data visualization to solve impactful problems and support data-driven decision-making.
+
+**Open to:** Data Analyst, Machine Learning Engineer, NLP Specialist, Data Scientist roles
+
+---
+
 ## 🛠️ Technical Arsenal
 
 ### 📈 Data Science & Machine Learning
