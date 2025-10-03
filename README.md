@@ -102,7 +102,7 @@ Comprehensive data analysis and visualization on real-world datasets using advan
 
 ```bash
 # Clone repository
-git clone https://github.com/DavSilvs/your-repo-name.git
+git clone https://github.com/Vit-O-Anjos/your-repo-name.git
 cd your-repo-name
 
 # Install dependencies
@@ -110,6 +110,8 @@ pip install -r requirements.txt
 
 # Launch Jupyter
 jupyter notebook
+
+---
 
   #  "Transforming raw data into intelligent solutions through machine learning and natural language processing"
 
