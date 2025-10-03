@@ -51,6 +51,31 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 
 ## 🚀 Featured Projects
 
+### 🔤 Natural Language Processing
+- [**SpaCy Sentiment & Sarcasm Analysis**](./nlp/spacy-sentiment-analysis/) - Advanced NLP pipeline with transformer models for sentiment classification and sarcasm detection on Amazon reviews.
+
+### 📈 Analysis & Visualization
+- [**Exploratory Data Analysis**](./data-analysis/exploratory-analysis/) - Comprehensive data exploration and business insights generation from real-world datasets.
+- [**Data Visualization & Dashboards**](./data-analysis/data-visualization/) - Interactive charts and business intelligence dashboards using matplotlib and seaborn.
+- [**Data Cleaning & Preprocessing**](./data-analysis/data-cleaning/) - Automated data pipeline development for transforming raw data into analysis-ready datasets.
+
+### 🤖 Machine Learning
+- [**Random Forests Classification**](./machine-learning/random-forests/) - Advanced ensemble methods with hyperparameter tuning for robust prediction models.
+- [**Decision Trees & Interpretation**](./machine-learning/decision-trees/) - Interpretable machine learning with feature importance analysis and model transparency.
+- [**Linear Regression Modeling**](./machine-learning/linear-regression/) - Predictive analytics and statistical forecasting for business applications.
+
+### 💻 Programming & Software Engineering
+- [**OOP & System Design**](./programming-software-engineering/oop-classes/) - Object-oriented programming principles and scalable software architecture.
+- [**File I/O Operations**](./programming-software-engineering/file-io-operations/) - Robust data processing workflows and file handling pipelines.
+- [**Modular Functions & Reusability**](./programming-software-engineering/modular-functions/) - Clean, maintainable code components and software engineering best practices.
+
+## 📜 Certifications
+- [**View My Certifications**](./certifications/) - Professional credentials and verified technical competencies.
+
+---
+
+## 📂 Project Portfolio
+
 ### 🔢 Handwritten Digit Classification
 Advanced image classification using Random Forests with comprehensive hyperparameter tuning and model optimization for handwritten digit recognition.
 
