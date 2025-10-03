@@ -115,8 +115,10 @@ jupyter notebook
 
 ---
 
-> "Transforming raw data into intelligent solutions through machine learning and natural language processing"
+<p align="center">
+  <i>"Transforming raw data into intelligent solutions through machine learning and natural language processing"</i>
+</p>
 
-***
-
-📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023
+<p align="center">
+  <b>📊 Data Science Portfolio | Vitor Anjos | Last Updated: December 2023</b>
+</p>
