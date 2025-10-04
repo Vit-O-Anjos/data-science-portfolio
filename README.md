@@ -60,7 +60,7 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 - [**Data Cleaning & Preprocessing**](./data-analysis/data-cleaning/) - Automated data pipeline development for transforming raw data into analysis-ready datasets.
 
 ### 🤖 Machine Learning
-- [**Random Forests - Titanic Survival**](./machine-learning/random-forests/) - 84% accuracy passenger survival prediction with feature importance analysis.
+- [**Random Forests - Titanic Survival**](./machine-learning/random-forests/) - 84.3% accuracy passenger survival prediction with comprehensive feature importance analysis and hyperparameter optimization.
 - [**Digit Recognition**](./machine-learning/digit-recognition/) - 98% accuracy handwritten digit classification with image preprocessing.
 - [**Decision Trees & Interpretation**](./machine-learning/decision-trees/) - Interpretable machine learning with feature importance analysis and model transparency.
 - [**Linear Regression Modeling**](./machine-learning/linear-regression/) - Predictive analytics and statistical forecasting for business applications.
