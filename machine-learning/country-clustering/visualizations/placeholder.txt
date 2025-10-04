@@ -1,0 +1,2 @@
+# Visualization files directory
+# This folder contains exported charts and graphs from the analysis
