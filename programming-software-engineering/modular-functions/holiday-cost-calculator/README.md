@@ -14,6 +14,15 @@ This project is a command-line holiday cost calculator that interactively collec
 - 🏗️ Modular function design for clarity and reusability  
 - 💬 Clear, user-friendly prompts and error messages
 
+## 🔄 How It Works
+- Prompts the user to enter a flight city from a validated list
+- Sets hotel location based on the chosen city
+- Requests the number of nights for the hotel stay
+- Asks for car rental days and whether the user wants a custom rental car
+- If customization is chosen, prompts for a specific car brand with validation
+- Calculates costs for flight, hotel, and car rental based on user inputs
+- Displays the total holiday cost
+
 ## 🚀 Usage
 Run the script and answer all prompts. Invalid inputs trigger clear error messages and re-prompts until valid information is provided. The total cost is displayed at the end.
 
@@ -28,6 +37,21 @@ The total cost for the holiday is £[calculated_amount].
 text
 
 
+## 📁 Project Structure
+
+holiday-cost-calculator/
+├── holiday_calculator.py # Main Python script
+├── requirements.txt # Dependencies (none required)
+└── README.md # This documentation
+text
+
+## 📁 Project Structure
+
+holiday-cost-calculator/
+├── holiday_calculator.py # Main Python script
+├── requirements.txt # Dependencies (none required)
+└── README.md # This documentation
+
 ## 📋 Requirements
 - Python 3.6 or higher  
 - No external libraries required
@@ -35,4 +59,4 @@ text
 ## 🔧 Notes for Developers
 - Global variables are used for shared state and can be refactored for better modularity  
 - Input validation follows best practices by continuously prompting until valid input is entered  
-- Easily extendable to add more cities, hotels, cars, or pricing rules
+- Easily extendable to add more cities, hotels, cars, or pricing rules by modifying relevant functions
