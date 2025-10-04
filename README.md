@@ -62,8 +62,8 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 ### 🤖 Machine Learning
 - [**Random Forests - Titanic Survival**](./machine-learning/random-forests/) - 84.3% accuracy passenger survival prediction with comprehensive feature importance analysis and hyperparameter optimization.
 - [**Digit Recognition**](./machine-learning/digit-recognition/) - 98% accuracy handwritten digit classification with image preprocessing and advanced computer vision techniques.
+- [**Multiple Linear Regression**](./machine-learning/multiple-linear-regression/) - Diabetes progression prediction with 10 clinical features.
 - [**Decision Trees & Interpretation**](./machine-learning/decision-trees/) - Interpretable machine learning with feature importance analysis and model transparency.
-- [**Linear Regression Modeling**](./machine-learning/linear-regression/) - Predictive analytics and statistical forecasting for business applications.
 
 ### 💻 Programming & Software Engineering
 - [**OOP & System Design**](./programming-software-engineering/oop-classes/) - Object-oriented programming principles and scalable software architecture.
