@@ -34,7 +34,6 @@ Car rental days: 4
 Would you like to customize your rental ride? Y/N: y
 Choose between Ferrari, Bugatti, Bentley, Lamborghini, 4L or Cupra: ferrari
 The total cost for the holiday is £[calculated_amount].
-text
 
 ## 📋 Requirements
 - Python 3.6 or higher  
