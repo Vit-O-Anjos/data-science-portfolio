@@ -66,9 +66,9 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 - [**Decision Trees & Interpretation**](./machine-learning/decision-trees/) - Interpretable machine learning with feature importance analysis and model transparency.
 
 ### 💻 Programming & Software Engineering
-- [**OOP & System Design**](./programming-software-engineering/oop-classes/) - Object-oriented programming principles and scalable software architecture.
-- [**File I/O Operations**](./programming-software-engineering/file-io-operations/) - Robust data processing workflows and file handling pipelines.
-- [**Modular Functions & Reusability**](./programming-software-engineering/modular-functions/) - Clean, maintainable code components and software engineering best practices.
+- **Modular Functions**
+  - [Holiday Cost Calculator](./programming-software-engineering/modular-functions/holiday-cost-calculator) - Function decomposition and clean architecture with robust input validation
+- **File I/O Operations**
 
 ## 📜 Certifications
 - [**View My Certifications**](./certifications/) - Professional credentials and verified technical competencies.
