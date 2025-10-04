@@ -63,11 +63,6 @@ text
 
 pip install -r requirements.txt
 
-text
 2. Run the Jupyter notebook to explore analysis and results:  
 
 jupyter notebook clustering_analysis.ipynb
-
-text
-undefined
-
