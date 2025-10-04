@@ -52,18 +52,22 @@ Advanced multiple linear regression project predicting diabetes disease progress
 
 ### Actual vs Predicted Values
 ![Actual vs Predicted](visualizations/actual_vs_predicted.png)
+
 *Scatter plot showing relationship between actual and predicted diabetes progression values*
 
 ### Residual Analysis
 ![Residuals Plot](visualizations/residuals_plot.png)
+
 *Residual plot examining prediction errors across different predicted values*
 
 ### Feature Error Analysis
 ![Feature Errors](visualizations/feature_errors.png)
+
 *Error analysis across each clinical feature dimension*
 
 ### Model Coefficients
 ![Coefficients](visualizations/coefficients.png)
+
 *Feature coefficients showing each variable's impact on diabetes progression prediction*
 
 ## 💡 Technical Achievements
