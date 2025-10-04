@@ -38,15 +38,6 @@ Choose between Ferrari, Bugatti, Bentley, Lamborghini, 4L or Cupra: ferrari
 The total cost for the holiday is £[calculated_amount].
 text
 
-
-## Project Structure  
-
-holiday-cost-calculator/
-├── holiday_cost_calculator.py # Main Python script with all functions and logic
-└── README.md # Project documentation (this file)
-text
-
-
 ## Requirements  
 - Python 3.6 or higher  
 - No external libraries required; uses standard Python features
