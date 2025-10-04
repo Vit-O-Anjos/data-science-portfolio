@@ -1,5 +1,8 @@
 # Holiday Cost Calculator
 
+## 🏗 Architecture Showcase
+This project demonstrates **modular function design** and **robust input validation** - key skills for production-ready software development.
+
 ## Overview  
 This project is a command-line holiday cost calculator that interactively collects user inputs for flight destination, hotel stay, and car rental preferences, validates these inputs with error handling, and computes the total cost of the holiday.
 
