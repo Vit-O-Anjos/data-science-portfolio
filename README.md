@@ -65,8 +65,7 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 
 ### 💻 Programming & Software Engineering
 - **Modular Functions**
-  - [Holiday Cost Calculator](./programming-software-engineering/modular-functions/holiday-cost-calculator) - Function decomposition and clean architecture with robust input validation
-- **File I/O Operations**
+- [Holiday Cost Calculator](./programming-software-engineering/modular-functions/holiday-cost-calculator) - Function decomposition and clean architecture with robust input validation. **Production-ready code architecture**
 
 ## 📜 Certifications
 - [**View My Certifications**](./certifications/) - Professional credentials and verified technical competencies.
