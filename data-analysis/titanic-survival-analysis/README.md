@@ -58,22 +58,3 @@ https://visualizations/age_distribution.png
 
 This analysis demonstrates how data storytelling can reveal historical patterns and inform safety protocols for modern transportation systems.
 text
-
-
-5. **Scroll down and commit:**
-   - **Commit message:** `Create Titanic Survival Analysis project`
-   - **Click "Commit changes"**
-
-## 🚀 **STEP 3: CREATE VISUALIZATIONS FOLDER**
-
-1. **Navigate to the new folder:** `data-analysis/titanic-survival-analysis/`
-2. **Click "Add file"** → **"Create new file"**
-3. **In filename field, type:**
-
-visualizations/placeholder.txt
-text
-
-4. **Add content:**
-```txt
-# Visualization files directory
-# Contains exported charts from Titanic analysis
