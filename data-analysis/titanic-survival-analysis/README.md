@@ -20,12 +20,7 @@ An exploratory data analysis investigating the demographic and socio-economic fa
 - Seaborn, Matplotlib
 - Jupyter Notebook
 
-## 🚀 Quick Start
-```bash
-pip install -r requirements.txt
-jupyter notebook titanic_analysis.ipynb
-
-📊 Visualizations
+## 📊 Visualizations
 Survival by Gender
 
 https://visualizations/survival_by_gender.png
@@ -41,3 +36,8 @@ https://visualizations/age_distribution.png
 💡 Business Impact
 
 This analysis demonstrates how data storytelling can reveal historical patterns and inform safety protocols for modern transportation systems.
+
+## 🚀 Quick Start
+```bash
+pip install -r requirements.txt
+jupyter notebook titanic_analysis.ipynb
