@@ -55,15 +55,12 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 - [**SpaCy Sentiment & Sarcasm Analysis**](./nlp/spacy-sentiment-analysis/) - Advanced NLP pipeline with transformer models for sentiment classification and sarcasm detection on Amazon reviews.
 
 ### 📈 Analysis & Visualization
-- [**Exploratory Data Analysis**](./data-analysis/exploratory-analysis/) - Comprehensive data exploration and business insights generation from real-world datasets.
-- [**Data Visualization & Dashboards**](./data-analysis/data-visualization/) - Interactive charts and business intelligence dashboards using matplotlib and seaborn.
-- [**Data Cleaning & Preprocessing**](./data-analysis/data-cleaning/) - Automated data pipeline development for transforming raw data into analysis-ready datasets.
+- **[Titanic Survival Analysis](./data-analysis/titanic-survival-analysis)** - Exploratory analysis of passenger survival factors including gender, class, and fare disparities
 
 ### 🤖 Machine Learning
 - [**Random Forests - Titanic Survival**](./machine-learning/random-forests/) - 84.3% accuracy passenger survival prediction with comprehensive feature importance analysis and hyperparameter optimization.
 - [**Digit Recognition**](./machine-learning/digit-recognition/) - 98% accuracy handwritten digit classification with image preprocessing and advanced computer vision techniques.
 - [**Multiple Linear Regression**](./machine-learning/multiple-linear-regression/) - Diabetes progression prediction with 10 clinical features.
-- [**Decision Trees & Interpretation**](./machine-learning/decision-trees/) - Interpretable machine learning with feature importance analysis and model transparency.
 - **[Country Development Clustering](./machine-learning/country-clustering)** - K-means clustering of 167 countries by socio-economic factors to determine development status
 
 ### 💻 Programming & Software Engineering
