@@ -38,50 +38,47 @@ Advanced machine learning project predicting passenger survival on the Titanic u
 ```bash
 pip install -r requirements.txt
 
-Usage
-bash
+# Usage
 
 jupyter notebook titanic_survival_prediction.ipynb
 
-Project Structure
 text
 
+# Project Structure
+
 random-forests/
-├── titanic_survival_prediction.ipynb  # Main analysis
-├── requirements.txt                   # Dependencies
-├── setup.py                          # Package configuration
-├── .gitignore                        # File management
-└── README.md                         # Project documentation
+├── titanic_survival_prediction.ipynb # Main analysis
+├── requirements.txt # Dependencies
+├── setup.py # Package configuration
+├── .gitignore # File management
+└── README.md # Project documentation
 
-🔍 Business Applications
+text
 
-    Risk assessment and survival prediction systems
+---
 
-    Customer segmentation and targeting
+## 🔍 Business Applications
 
-    Feature importance analysis for decision-making
+- Risk assessment and survival prediction systems  
+- Customer segmentation and targeting  
+- Feature importance analysis for decision-making  
+- Ensemble method evaluation for model selection  
 
-    Ensemble method evaluation for model selection
+## 💡 Technical Achievements
 
-💡 Technical Achievements
+- Comprehensive hyperparameter tuning with 960 model evaluations  
+- Feature importance visualization using Gini importance  
+- Multiple algorithm comparison for optimal model selection  
+- Robust data preprocessing pipeline  
 
-    Comprehensive hyperparameter tuning with 960 model evaluations
+## 🏆 Academic Achievement
 
-    Feature importance visualization using Gini importance
+**Task 21 Score:** 100%  
+Perfect score in supervised learning assessment demonstrating advanced Random Forest implementation and optimization techniques.
 
-    Multiple algorithm comparison for optimal model selection
+## 📁 Dataset
 
-    Robust data preprocessing pipeline
-
-🏆 Academic Achievement
-
-Task 21 Score: 100% - Perfect score in supervised learning assessment demonstrating advanced Random Forest implementation and optimization techniques.
-📁 Dataset
-
-    Source: Titanic passenger data
-
-    Samples: 891 passengers
-
-    Features: 10 engineered features including Pclass, Age, Fare, Sex, Embarked
-
-    Target: Survival (0 = Did not survive, 1 = Survived)
+- **Source:** Titanic passenger data  
+- **Samples:** 891 passengers  
+- **Features:** 10 engineered features including Pclass, Age, Fare, Sex, Embarked  
+- **Target:** Survival (0 = Did not survive, 1 = Survived)
