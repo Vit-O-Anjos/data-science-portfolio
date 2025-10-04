@@ -22,18 +22,23 @@ An exploratory data analysis investigating the demographic and socio-economic fa
 
 ## 📊 Visualizations
 Survival by Gender
+
 https://visualizations/survival_by_gender.png
 
 Survival by Passenger Class
+
 https://visualizations/survival_by_class.png
 
 Survival by Fare
+
 https://visualizations/survival_by_fare.png
 
 Age Distribution
+
 https://visualizations/age_distribution.png
 
 💡 Business Impact
+
 This analysis demonstrates how data storytelling can reveal historical patterns and inform safety protocols for modern transportation systems.
 
 ## 🚀 Quick Start
