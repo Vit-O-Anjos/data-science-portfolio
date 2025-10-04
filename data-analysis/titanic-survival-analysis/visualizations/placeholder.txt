@@ -1,0 +1,3 @@
+```txt
+# Visualization files directory
+# Contains exported charts from Titanic analysis
