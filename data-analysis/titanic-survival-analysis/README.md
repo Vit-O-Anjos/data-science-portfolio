@@ -21,21 +21,18 @@ An exploratory data analysis investigating the demographic and socio-economic fa
 - Jupyter Notebook
 
 ## 📊 Visualizations
-Survival by Gender
 
-https://visualizations/survival_by_gender.png
+### Survival by Gender
+![Gender Analysis](visualizations/survival_by_gender.png)
 
-Survival by Passenger Class
+### Survival by Passenger Class  
+![Class Analysis](visualizations/survival_by_class.png)
 
-https://visualizations/survival_by_class.png
+### Survival by Fare
+![Fare Analysis](visualizations/survival_by_fare.png)
 
-Survival by Fare
-
-https://visualizations/survival_by_fare.png
-
-Age Distribution
-
-https://visualizations/age_distribution.png
+### Age Distribution
+![Age Analysis](visualizations/age_distribution.png)
 
 
 ## 💡 Business Impact
