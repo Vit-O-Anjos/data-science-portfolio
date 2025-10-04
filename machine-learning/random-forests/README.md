@@ -32,16 +32,6 @@ Advanced machine learning project predicting passenger survival on the Titanic u
 - **Data Quality**: Handled 177 missing age values with mean imputation
 - **Model Selection**: Bagging outperformed individual classifiers
 
-## 🚀 Quick Start
-
-### Installation
-```bash
-pip install -r requirements.txt
-
-# Usage
-
-jupyter notebook titanic_survival_prediction.ipynb
-
 text
 
 # Project Structure
@@ -82,3 +72,16 @@ Perfect score in supervised learning assessment demonstrating advanced Random Fo
 - **Samples:** 891 passengers  
 - **Features:** 10 engineered features including Pclass, Age, Fare, Sex, Embarked  
 - **Target:** Survival (0 = Did not survive, 1 = Survived)
+
+## 🚀 Quick Start
+
+# Usage
+
+jupyter notebook titanic_survival_prediction.ipynb
+
+### Installation
+```bash
+pip install -r requirements.txt
+
+
+
