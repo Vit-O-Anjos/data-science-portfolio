@@ -51,6 +51,7 @@ holiday-cost-calculator/
 ├── holiday_calculator.py # Main Python script
 ├── requirements.txt # Dependencies (none required)
 └── README.md # This documentation
+text
 
 ## 📋 Requirements
 - Python 3.6 or higher  
