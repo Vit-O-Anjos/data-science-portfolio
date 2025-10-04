@@ -40,10 +40,12 @@ Advanced machine learning project implementing Random Forest classification on t
 
 ### Confusion Matrix
 ![Confusion Matrix](visualizations/confusion_matrix.png)
+
 *Confusion matrix showing excellent classification performance with minimal misclassifications*
 
 ### Training Examples
 ![Training Samples](visualizations/training_samples.png)
+
 *Examples of handwritten digits from the training dataset*
 
 ## 🚀 Quick Start
