@@ -90,8 +90,9 @@ I believe in:
 I'm always interested in discussing data science, machine learning, and new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vitor-david-anjos-33242a107/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:your-email@domain.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Vit-O-Anjos)
+
+*Preferred contact: LinkedIn*
 
 ---
 
