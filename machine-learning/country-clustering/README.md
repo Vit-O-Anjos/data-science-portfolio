@@ -47,15 +47,6 @@ Use K-means clustering to group countries based on socio-economic and health ind
 - Economic development analysis and forecasting  
 - Humanitarian aid prioritization based on health and economic indicators
 
-## Project Structure  
-
-country-categorization/
-├── Country-data.csv # Original dataset
-├── clustering_analysis.ipynb # Jupyter notebook with full analysis and visualizations
-├── requirements.txt # Python dependencies
-├── setup.py # Project setup
-└── README.md # Project documentation (this file)
-
 text
 
 ## Usage  
