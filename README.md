@@ -65,20 +65,10 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 
 ### 💻 Programming & Software Engineering
 - **Modular Functions**
-- [Holiday Cost Calculator](./programming-software-engineering/modular-functions/holiday-cost-calculator) - Function decomposition and clean architecture with robust input validation. **Production-ready code architecture**
+- [**Holiday Cost Calculator**](./programming-software-engineering/modular-functions/holiday-cost-calculator) - Function decomposition and clean architecture with robust input validation. **Production-ready code architecture**
 
 ## 📜 Certifications
 - [**View My Certifications**](./certifications/) - Professional credentials and verified technical competencies.
-
----
-
-## 📂 Project Portfolio
-
-### 🧠 Neural Network Logic Gates
-Implementation of neural networks modeling complex logic gates (XOR, AND, OR) demonstrating deep understanding of neural network architectures and training.
-
-**Technologies:** `TensorFlow` `Neural Networks` `backpropagation` `activation functions`  
-**Key Achievements:** 100% score in neural network exploration tasks
 
 ---
 
@@ -92,18 +82,6 @@ Implementation of neural networks modeling complex logic gates (XOR, AND, OR) de
 | **Programming** | Advanced | `Python` `OOP` `modular code` `File I/O` |
 | **Data Visualization** | Advanced | `matplotlib` `seaborn` `interactive plots` |
 | **Model Optimization** | Advanced | `Hyperparameter tuning` `cross-validation` |
-
----
-
-## 🎯 Project Highlights
-
-**Core Competencies Demonstrated:**
-- **Random Forest Implementation** with comprehensive hyperparameter tuning
-- **Sentiment Analysis** with advanced sarcasm detection capabilities  
-- **Neural Network Architecture** design and training from scratch
-- **Exploratory Data Analysis** with actionable business insights
-- **Object-Oriented Programming** for scalable data solutions
-- **Modular Code Development** for maintainable ML pipelines
 
 ---
 
