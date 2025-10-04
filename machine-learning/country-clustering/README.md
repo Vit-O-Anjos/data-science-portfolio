@@ -52,7 +52,6 @@ This project groups countries based on socio-economic and health factors to dete
 - 📈 Economic development analysis and forecasting
 - 🆘 Humanitarian aid prioritization based on health and economic indicators
 
-text
 
 ## Usage  
 1. Install dependencies:  
