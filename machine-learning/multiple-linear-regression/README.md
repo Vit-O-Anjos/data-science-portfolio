@@ -35,17 +35,30 @@ Advanced multiple linear regression project predicting diabetes disease progress
 - **BMI**: 519.85 (strong positive impact on progression)  
 - **s5**: 751.27 (strongest positive predictor)  
 - **s1**: -792.18 (strongest negative predictor)  
-- **Age**: -10.01 (minimal negative impact)  
+- **Age**: -10.01 (minimal negative impact)
 
-## 🚀 Quick Start
+## 📊 Results & Visualizations
 
-### Installation  
+### Model Performance
+- **R² Score: 0.47** - Moderate correlation explaining 47% of variance in diabetes progression
+- **10 Clinical Features** used for prediction
+- **Multiple scaling techniques** tested (MinMaxScaler, StandardScaler)
 
-pip install -r requirements.txt
+### Actual vs Predicted Values
+![Actual vs Predicted](visualizations/actual_vs_predicted.png)
+*Scatter plot showing relationship between actual and predicted diabetes progression values*
 
-### Usage  
+### Residual Analysis
+![Residuals Plot](visualizations/residuals_plot.png)
+*Residual plot examining prediction errors across different predicted values*
 
-jupyter notebook diabetes_progression_regression.ipynb
+### Feature Error Analysis
+![Feature Errors](visualizations/feature_errors.png)
+*Error analysis across each clinical feature dimension*
+
+### Model Coefficients
+![Coefficients](visualizations/coefficients.png)
+*Feature coefficients showing each variable's impact on diabetes progression prediction*
 
 ## 💡 Technical Achievements
 - Comprehensive scaling comparison revealing preprocessing challenges  
@@ -69,3 +82,13 @@ jupyter notebook diabetes_progression_regression.ipynb
 - Clinical feature importance analysis for healthcare decisions  
 - Regression model benchmarking for medical research  
 - Preprocessing technique evaluation for clinical data
+
+## 🚀 Quick Start
+
+### Installation  
+
+pip install -r requirements.txt
+
+### Usage  
+
+jupyter notebook diabetes_progression_regression.ipynb
