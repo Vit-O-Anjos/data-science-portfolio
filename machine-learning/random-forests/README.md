@@ -50,11 +50,6 @@ text
 - Multiple algorithm comparison for optimal model selection  
 - Robust data preprocessing pipeline  
 
-## 🏆 Academic Achievement
-
-**Task 21 Score:** 100%  
-Perfect score in supervised learning assessment demonstrating advanced Random Forest implementation and optimization techniques.
-
 ## 📁 Dataset
 
 - **Source:** Titanic passenger data  
