@@ -1,22 +1,26 @@
-# Modular Functions & Code Reusability
+# 🧳 Holiday Cost Calculator
 
-## Overview
-This project exemplifies best practices in software engineering by applying modular function design and object-oriented programming principles. The focus is on creating clean, reusable, and maintainable code components tailored for data science workflows.
+## 📖 Overview
+This project demonstrates modular function design and robust error handling in Python. It guides users through a travel planning experience, calculating the total cost of a holiday based on destination, hotel, rental car preferences, and duration.
 
-## Technologies & Concepts
-- **Python Modular Programming**: Functions, import/export
-- **Object-Oriented Design**: Encapsulation, inheritance, abstractions
-- **Code Organization**: Separation of concerns, DRY (Don't Repeat Yourself)
-- **Documentation and Testing** for function reliability
+## 🛠 Technologies & Concepts
+- **🐍 Python Functional Programming**: Modular functions for input handling and cost calculation
+- **🛡 Error Handling**: `try-except` blocks for user input validation
+- **💬 User Interaction**: Console-based prompts with guided input
+- **♻ Code Reusability**: Separation of logic into clean, reusable functions
 
-## Key Features
-- Collection of modular functions supporting machine learning pipelines
-- Well-documented function APIs with examples
-- Scalable design enabling easy integration of new features
-- Unit tests to ensure consistent behavior across modules
+## ✨ Key Features
+- **🎯 Interactive prompts** for destination, hotel, rental car, and duration
+- **🚗 Custom rental car selection** with brand-specific pricing
+- **💰 Dynamic cost calculation** for flights, hotels, and car rentals
+- **✅ Input validation** to prevent crashes and guide user behavior
 
-## Engineering Skills
-- Designed maintainable, extensible software modules
-- Implemented OOP class hierarchies for complex problem-solving
-- Applied software engineering best practices in data science projects
-- Achieved high coding standards with thorough documentation
+## 🏗 Engineering Skills Demonstrated
+- **📋 Designed maintainable, modular functions** for a real-world use case
+- **🛡 Implemented input validation** using exception handling
+- **✨ Applied clean code principles** for readability and reuse
+- **👥 Built a user-friendly console application** with guided decision flow
+
+## 🚀 How to Run
+```bash
+python holiday_cost_calculator.py
