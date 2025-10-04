@@ -55,7 +55,7 @@ jupyter notebook diabetes_progression_regression.ipynb
 - Train-test split validation with random state control  
 
 ## 🏆 Academic Achievement
-**Task 18 Score: 100%** - Perfect score in multiple linear regression assessment demonstrating advanced regression analysis and preprocessing techniques.
+**Task Score: 100%** - Perfect score in multiple linear regression assessment demonstrating advanced regression analysis and preprocessing techniques.
 
 ## 📁 Dataset
 - **Source:** Diabetes clinical measurements  
