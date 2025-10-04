@@ -20,6 +20,7 @@ Advanced machine learning project predicting passenger survival on the Titanic u
 
 ## 🔧 Technologies & Methods
 - **Random Forest Classifier** with ensemble learning
+- **Decision Tree Fundamentals** with pruning and visualization
 - **GridSearchCV** for hyperparameter optimization
 - **Feature Engineering**: One-hot encoding, missing value imputation
 - **Model Evaluation**: Accuracy, precision, recall, confusion matrices
