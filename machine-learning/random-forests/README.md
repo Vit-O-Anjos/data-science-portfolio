@@ -34,17 +34,6 @@ Advanced machine learning project predicting passenger survival on the Titanic u
 
 text
 
-# Project Structure
-
-random-forests/
-├── titanic_survival_prediction.ipynb # Main analysis
-├── requirements.txt # Dependencies
-├── setup.py # Package configuration
-├── .gitignore # File management
-└── README.md # Project documentation
-
-text
-
 ---
 
 ## 🔍 Business Applications
