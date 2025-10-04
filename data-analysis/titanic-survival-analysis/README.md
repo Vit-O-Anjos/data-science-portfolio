@@ -37,7 +37,8 @@ Age Distribution
 
 https://visualizations/age_distribution.png
 
-💡 Business Impact
+
+## 💡 Business Impact
 
 This analysis demonstrates how data storytelling can reveal historical patterns and inform safety protocols for modern transportation systems.
 
