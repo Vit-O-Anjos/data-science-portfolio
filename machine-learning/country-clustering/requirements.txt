@@ -1,0 +1,14 @@
+# Core Data Science Libraries
+pandas>=1.5.3
+numpy>=1.21.6
+scikit-learn>=1.2.2
+matplotlib>=3.5.3
+seaborn>=0.11.2
+jupyter>=1.0.0
+
+# Optional but recommended for Jupyter notebooks
+ipykernel>=6.0.0
+notebook>=6.5.4
+
+# For potential data handling
+openpyxl>=3.0.10  # For Excel files if needed
