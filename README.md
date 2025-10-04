@@ -64,6 +64,7 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 - [**Digit Recognition**](./machine-learning/digit-recognition/) - 98% accuracy handwritten digit classification with image preprocessing and advanced computer vision techniques.
 - [**Multiple Linear Regression**](./machine-learning/multiple-linear-regression/) - Diabetes progression prediction with 10 clinical features.
 - [**Decision Trees & Interpretation**](./machine-learning/decision-trees/) - Interpretable machine learning with feature importance analysis and model transparency.
+- **[Country Development Clustering](./machine-learning/country-clustering)** - K-means clustering of 167 countries by socio-economic factors to determine development status
 
 ### 💻 Programming & Software Engineering
 - **Modular Functions**
