@@ -105,8 +105,8 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 
 ```bash
 # Clone repository
-git clone https://github.com/Vit-O-Anjos/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Vit-O-Anjos/data-science-portfolio.git
+cd data-science-portfolio
 
 # Install dependencies
 pip install -r requirements.txt
