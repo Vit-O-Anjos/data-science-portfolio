@@ -1,4 +1,4 @@
-Holiday Cost Calculator
+# Holiday Cost Calculator
 
 ## 🏗 Architecture Showcase
 This project demonstrates **modular function design** and **robust input validation** - key skills for production-ready software development.
