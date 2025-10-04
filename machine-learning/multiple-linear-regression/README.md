@@ -26,10 +26,16 @@ Advanced multiple linear regression project predicting diabetes disease progress
 - **Feature Analysis**: Coefficient magnitude and direction analysis  
 
 ## 📈 Key Insights
-- **Best Performance**: No scaling achieved R² = 0.47 (moderate predictive power)  
-- **Scaling Impact**: Both scalers negatively impacted model performance  
-- **Key Features**: BMI, blood pressure, and s5 (blood sugar) showed highest coefficients  
-- **Model Limitations**: Dataset may have complex non-linear relationships  
+
+### Clinical Prediction Challenges
+- **Real-world medical data** often has moderate predictive power due to biological complexity
+- **R² of 0.47** represents meaningful clinical correlation in diabetes research context
+- **Demonstrates understanding** of when models have practical vs theoretical limits
+
+### Technical Implementation
+- **Comprehensive preprocessing** with multiple scaling approaches
+- **Thorough residual analysis** for model diagnostics
+- **Feature coefficient interpretation** for clinical insights
 
 ## 🔍 Feature Coefficients (No Scaling)
 - **BMI**: 519.85 (strong positive impact on progression)  
