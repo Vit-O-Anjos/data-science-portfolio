@@ -61,7 +61,7 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 
 ### 🤖 Machine Learning
 - [**Random Forests - Titanic Survival**](./machine-learning/random-forests/) - 84.3% accuracy passenger survival prediction with comprehensive feature importance analysis and hyperparameter optimization.
-- [**Digit Recognition**](./machine-learning/digit-recognition/) - 98% accuracy handwritten digit classification with image preprocessing.
+- [**Digit Recognition**](./machine-learning/digit-recognition/) - 98% accuracy handwritten digit classification with image preprocessing and advanced computer vision techniques.
 - [**Decision Trees & Interpretation**](./machine-learning/decision-trees/) - Interpretable machine learning with feature importance analysis and model transparency.
 - [**Linear Regression Modeling**](./machine-learning/linear-regression/) - Predictive analytics and statistical forecasting for business applications.
 
@@ -76,12 +76,6 @@ My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and S
 ---
 
 ## 📂 Project Portfolio
-
-### 🔢 Handwritten Digit Classification
-Advanced image classification using Random Forests with comprehensive hyperparameter tuning and model optimization for handwritten digit recognition.
-
-**Technologies:** `Python` `scikit-learn` `Random Forests` `hyperparameter optimization`  
-**Key Achievements:** Achieved 100% score in supervised learning tasks with robust model performance
 
 ### 🧠 Neural Network Logic Gates
 Implementation of neural networks modeling complex logic gates (XOR, AND, OR) demonstrating deep understanding of neural network architectures and training.
