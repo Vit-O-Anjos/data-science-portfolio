@@ -43,23 +43,9 @@ Advanced multiple linear regression project predicting diabetes disease progress
 
 pip install -r requirements.txt
 
-text
-
 ### Usage  
 
 jupyter notebook diabetes_progression_regression.ipynb
-
-text
-
-## Project Structure
-
-linear-regression/
-├── diabetes_progression_regression.ipynb # Main analysis
-├── requirements.txt # Dependencies
-├── setup.py # Package configuration
-└── README.md # Project documentation
-
-text
 
 ## 💡 Technical Achievements
 - Comprehensive scaling comparison revealing preprocessing challenges  
