@@ -39,8 +39,6 @@ This project exemplifies **professional software development** through:
 
 python holiday_cost_calculator.py
 
-text
-
 💡 Example Interaction
 
 Enter destination (Lisbon, Porto, Faro, Santa Cruz, Santa Maria): lisbon
@@ -54,8 +52,6 @@ Choose car brand (Ferrari, Bugatti, Bentley, Lamborghini, 4L, Cupra): ferrari
 🏨 3 nights hotel: £1890
 🚗 4 days Ferrari rental: £6800
 💷 TOTAL HOLIDAY COST: £9280
-
-text
 
 ## 📊 Pricing Structure
 **Flights:**  
@@ -97,3 +93,4 @@ The patterns demonstrated in this project scale to enterprise development:
 - No external libraries required  
 
 *Built with ❤️ to showcase professional Python development skills and software engineering principles*
+
