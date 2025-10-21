@@ -24,7 +24,7 @@ A comprehensive showcase of end-to-end data science work — from data cleaning 
 
 ### 💻 Programming & Software Engineering
 - **Modular Functions**
-- [**Holiday Cost Calculator**](./programming-software-engineering/modular-functions/holiday-cost-calculator) - Function decomposition and clean architecture with robust input validation. **Production-ready code architecture**
+- [**Holiday Cost Calculator**](./software-engineering/modular-functions/holiday-cost-calculator) - Function decomposition and clean architecture with robust input validation. **Production-ready code architecture**
 
 ## 📜 Certifications
 - [**View My Certifications**](./certifications/) - Professional credentials and verified technical competencies.
@@ -46,8 +46,8 @@ A comprehensive showcase of end-to-end data science work — from data cleaning 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vitor-david-anjos-33242a107/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/DavSilvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vitor-anjos-33242a107/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)]([https://github.com/DavSilvs](https://github.com/Vit-O-Anjos/data-science-portfolio))
 
 *Preferred contact: LinkedIn*
 
