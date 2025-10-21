@@ -60,27 +60,27 @@ Advanced multi-class classification project predicting iris flower species using
 ## 📊 Results & Visualizations
 
 ### Model Performance
-![Confusion Matrix](visualizations/confusion_matrix.png)
+![Confusion Matrix](visualisations/confusion_matrix.png)
 
 Confusion matrix showing 91.1% accuracy with perfect setosa classification and 4 misclassifications between versicolor and virginica.
 
 ### Feature Relationships
-![Pairplot](visualizations/pairplot.png)
+![Pairplot](visualisations/pairplot.png)
 
 Pairplot showing feature distributions and relationships by species, highlighting perfect setosa separation and versicolor-virginica overlap.
 
 ### Correlation Analysis
-![Correlation Matrix](visualizations/correlation_matrix_full.png)
+![Correlation Matrix](visualisations/correlation_matrix_full.png)
 
 Feature correlation matrix demonstrating strong relationships between petal measurements and species classification.
 
 ### Feature Importance
-![Feature Importance](visualizations/feature_importance_correlation.png)
+![Feature Importance](visualisations/feature_importance_correlation.png)
 
 Feature correlation ranking showing petal width (0.96) and length (0.95) have strongest correlation with species.
 
 ### Classification Report
-![Classification Report](visualizations/classification_report.png)
+![Classification Report](visualisations/classification_report.png)
 
 Detailed performance metrics per class showing 100% setosa accuracy and strong versicolor/virginica performance.
 
