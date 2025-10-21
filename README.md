@@ -47,7 +47,7 @@ A comprehensive showcase of end-to-end data science work — from data cleaning 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vitor-anjos-33242a107/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)]([https://github.com/DavSilvs](https://github.com/Vit-O-Anjos/data-science-portfolio))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Vit-O-Anjos)
 
 *Preferred contact: LinkedIn*
 
