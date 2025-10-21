@@ -95,29 +95,29 @@ This project groups 167 countries based on socio-economic and health factors to 
 ## 📊 Visualizations
 
 ### Feature Correlation Analysis
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Correlation Heatmap](visualisations/correlation_heatmap.png)
 
 Heatmap showing strong relationships between child mortality, GDP, and life expectancy across countries
 
 ### Cluster Selection
-![Elbow Curve](visualizations/elbow_curve.png)
+![Elbow Curve](visualisations/elbow_curve.png)
 
 *Elbow method indicating optimal cluster count at K=3 based on inertia reduction*
 
-![Silhouette Scores](visualizations/silhouette_scores.png)
+![Silhouette Scores](visualisations/silhouette_scores.png)
 
 *Silhouette analysis confirming K=3 provides the best cluster separation with score of 0.343*
 
 ### Cluster Results
-![Child Mortality vs GDP](visualizations/results_summary_child_mortality.png)
+![Child Mortality vs GDP](visualisations/results_summary_child_mortality.png)
 
 Clear inverse relationship: high child mortality correlates with low GDP per capita
 
-![Inflation vs GDP](visualizations/results_summary_inflation.png)
+![Inflation vs GDP](visualisations/results_summary_inflation.png)
 
 Economic stability pattern: developed nations show lower inflation with higher GDP
 
-![Cluster Scatterplot](visualizations/cluster_scatterplot.png)
+![Cluster Scatterplot](visualisations/cluster_scatterplot.png)
 
 Three distinct development clusters showing progression from least developed to developed countries 
 
