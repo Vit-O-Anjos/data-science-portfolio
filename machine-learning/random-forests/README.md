@@ -78,22 +78,22 @@ Advanced machine learning project predicting passenger survival on the Titanic u
 ## 📊 Key Visualizations
 
 ### 1. Model Performance Comparison
-![Model Comparison](visualizations/model_comparison_chart.png)
+![Model Comparison](visualisations/model_comparison_chart.png)
 
 *Pre-pruned Decision Tree (89.6%) outperformed all ensemble methods*
 
 ### 2. Optimal Depth Analysis  
-![Pruning Analysis](visualizations/pruning_analysis_depth.png)
+![Pruning Analysis](visualisations/pruning_analysis_depth.png)
 
 *Systematic depth testing revealed optimal performance at depth=7*
 
 ### 3. Best Model Performance
-![Confusion Matrix](visualizations/best_model_confusion_matrix.png)
+![Confusion Matrix](visualisations/best_model_confusion_matrix.png)
 
 *89.6% accurate pre-pruned Decision Tree confusion matrix*
 
 ### 4. Feature Importance
-![Feature Importance](visualizations/feature_importance_plot.png)
+![Feature Importance](visualisations/feature_importance_plot.png)
 
 *Fare, Age, and Sex identified as most predictive features*
 
@@ -102,17 +102,17 @@ Advanced machine learning project predicting passenger survival on the Titanic u
 ## 🔍 Technical Analysis Visualizations
 
 ### Cost-Complexity Pruning Analysis
-![Post-Pruning Analysis](visualizations/cost_complexity_pruning.png)
+![Post-Pruning Analysis](visualisations/cost_complexity_pruning.png)
 
 *Alpha parameter optimization for post-pruning strategies*
 
 ### Decision Tree Structure
-![Tree Structure](visualizations/decision_tree_structure.png)
+![Tree Structure](visualisations/decision_tree_structure.png)
 
 *Optimal depth=7 Decision Tree visualization*
 
 ### Feature Correlations
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Correlation Heatmap](visualisations/correlation_heatmap.png)
 
 *Feature relationships and multicollinearity analysis*
 
