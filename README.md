@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-A curated collection of data science projects demonstrating skills in data analysis, machine learning, natural language processing, and Python programming. Includes exploratory data analysis, classification and regression modeling, NLP sentiment analysis with sarcasm detection, and fundamental neural network implementations.
+A comprehensive showcase of end-to-end data science work — from data cleaning and exploratory analysis to machine learning, NLP, and Python software engineering. Each project highlights practical problem-solving, modular code design, and production-ready practices.
 
 ## 👨‍💻 About Me
 [📖 Read my full background and skills](./about-me.md)
