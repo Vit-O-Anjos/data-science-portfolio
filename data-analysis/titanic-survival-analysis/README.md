@@ -23,16 +23,16 @@ An exploratory data analysis investigating the demographic and socio-economic fa
 ## 📊 Visualizations
 
 ### Survival by Gender
-![Gender Analysis](visualizations/survival_by_gender.png)
+![Gender Analysis](visualisations/survival_by_gender.png)
 
 ### Survival by Passenger Class  
-![Class Analysis](visualizations/survival_by_class.png)
+![Class Analysis](visualisations/survival_by_class.png)
 
 ### Survival by Fare
-![Fare Analysis](visualizations/survival_by_fare.png)
+![Fare Analysis](visualisations/survival_by_fare.png)
 
 ### Age Distribution
-![Age Analysis](visualizations/age_distribution.png)
+![Age Analysis](visualisations/age_distribution.png)
 
 
 ## 💡 Business Impact
