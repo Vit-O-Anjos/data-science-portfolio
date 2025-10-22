@@ -5,7 +5,7 @@
   - 98% Overall Grade (Imperial College London endorsed)
 
 ## 💻 Programming Certifications
-- **Cisco Python Essentials**
+- **Cisco Python Essentials Certified**
 
 ## 📊 Assessment Performance
 - 🥇 **Post-Assessment MCQ**: 100% Score
