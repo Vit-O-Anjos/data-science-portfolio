@@ -1,12 +1,11 @@
-# Professional Certifications
+# Professional Certifications & Credentials
 
 ## 🎓 Data Science & Analytics
 - 🏆 **Data Science Certificate** - HyperionDev
   - 98% Overall Grade (Imperial College London endorsed)
 
 ## 💻 Programming Certifications
-- **PCAP - Certified Associate in Python Programming**
-- **Cisco Python Essentials 1 & 2**
+- **Cisco Python Essentials**
 
 ## 📊 Assessment Performance
 - 🥇 **Post-Assessment MCQ**: 100% Score
