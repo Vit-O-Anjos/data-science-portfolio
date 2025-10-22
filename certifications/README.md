@@ -1,8 +1,8 @@
 # Professional Certifications & Credentials
 
 ## 🎓 Data Science & Analytics
-- 🏆 **Data Science Certificate** - HyperionDev
-  - 98% Overall Grade (Imperial College London endorsed)
+- 🏆 **Data Science Certificate** - HyperionDev (Imperial College London endorsed)
+  - 98% Overall Grade
 
 ## 💻 Programming Certifications
 - **Cisco Python Essentials Certified**
