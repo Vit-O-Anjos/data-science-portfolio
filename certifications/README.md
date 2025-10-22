@@ -22,9 +22,4 @@
 ---
 
 ## 🚀 Ongoing Skill Development
-
-Continuously enhancing my data science expertise by completing new courses, certifications, and tackling real-world projects. Regularly working on diverse datasets, applying advanced machine learning techniques, and experimenting with emerging data science tools to stay up-to-date with the latest trends and methodologies in the field.
-
----
-
-> Full certification details available during interview process
+Constantly enhancing my data science expertise through new courses and certifications, real-world projects, and hands-on experimentation with advanced tools. Regularly applying machine learning techniques and exploring emerging methodologies to stay at the forefront of the field.
