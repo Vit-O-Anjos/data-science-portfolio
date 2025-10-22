@@ -9,9 +9,9 @@
 - **Cisco Python Essentials 1 & 2**
 
 ## 📊 Assessment Performance
-- **Post-Assessment MCQ**: 100% Score
-- **Technical Portfolio Certification**: 100% Score
-- **Machine Learning Specializations**: Multiple 100% scores
+- 🥇 **Post-Assessment MCQ**: 100% Score
+- 🥇 **Data Analysis Projects**: Consistent Top Marks
+- 🥇 **Machine Learning Specializations**: Multiple 100% scores
 
 ## 🛠️ Technical Competencies Verified
 - Python Programming & OOP
