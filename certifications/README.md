@@ -3,7 +3,6 @@
 ## 🎓 Data Science & Analytics
 - **Data Science Certificate** - HyperionDev
   - 98% Overall Grade (Imperial College London endorsed)
-  - [Verify here](https://www.hyperiondev.com/portfolio/VD23110014103/)
 
 ## 💻 Programming Certifications
 - **PCAP - Certified Associate in Python Programming**
@@ -19,3 +18,13 @@
 - Machine Learning (Random Forests, Decision Trees, Linear/Logistic Regression)
 - Natural Language Processing (SpaCy, Transformer Models)
 - Data Analysis & Visualization (pandas, matplotlib, seaborn)
+
+---
+
+## 🚀 Ongoing Skill Development
+
+Continuously enhancing my data science expertise by completing new courses, certifications, and tackling real-world projects. Regularly working on diverse datasets, applying advanced machine learning techniques, and experimenting with emerging data science tools to stay up-to-date with the latest trends and methodologies in the field.
+
+---
+
+> Full certification details available during interview process
