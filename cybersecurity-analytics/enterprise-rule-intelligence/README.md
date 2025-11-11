@@ -202,9 +202,6 @@ Four-panel strategic overview with advanced metrics including outlier detection 
 
 ## 🚀 Live Demo & Complete Output
 
-### 📊 Static Notebook Preview
-- 📓 [View Full Notebook on nbviewer](https://nbviewer.org/github/Vit-O-Anjos/data-science-portfolio/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb)
-
 ### 🛠️ Interactive Version (Ready to Run)
 - 🎮 [Run in Google Colab](https://colab.research.google.com/github/Vit-O-Anjos/data-science-portfolio/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb)
 
