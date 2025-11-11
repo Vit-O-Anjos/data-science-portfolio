@@ -291,18 +291,21 @@ Each visualization includes comprehensive statistics:
 ## Project Structure
 
 ```
-detection-analytics-platform/
+enterprise-rule-intelligence/
+├── enterprise_intelligence_platform.ipynb
 ├── README.md
-├── detection_analytics_platform.ipynb
-├── visualizations/
-│   ├── executive_dashboard.png
-│   ├── 1_rule_type_distribution.png
-│   ├── 2_platform_utilization.png
-│   ├── 3_mitre_tactic_coverage.png
-│   ├── 7_detection_patterns.png
-│   └── 13_cross_platform_heatmaps.png
-└── reports/
-    └── (generated visualizations)
+├── DEMO_OUTPUT.md
+├── requirements.txt
+├── data/
+│ ├── snort3.rules
+│ ├── snort3-community.rules
+│ ├── snort2.rules
+│ └── BLUE_TEAM_DEFENSE_DATASET.jsonl
+└── visualisations/
+  ├── executive_dashboard.png
+  ├── mitre_coverage_suite.png
+  ├── cross_platform_heatmaps.png
+  └── ... (28 additional technical charts)
 ```
 
 ## Technical Approach
