@@ -203,21 +203,21 @@ Four-panel strategic overview with advanced metrics including outlier detection 
 ## 🚀 Live Demo & Complete Output
 
 ### 📊 Interactive Notebook
-- 📓 [View Full Notebook on nbviewer](https://nbviewer.org/github/Vit-O-Anjos/data-science-portfolio_0/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb)
+- 📓 [View Full Notebook on nbviewer](https://nbviewer.org/github/Vit-O-Anjos/data-science-portfolio/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb)
 
 ### 🛠️ Interactive Version (Ready to Run)
-- 🎮 [Run in Google Colab](https://colab.research.google.com/github/Vit-O-Anjos/data-science-portfolio_0/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb)
+- 🎮 [Run in Google Colab](https://colab.research.google.com/github/Vit-O-Anjos/data-science-portfolio/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb)
 
 **To use sample data:**
 
 **Option 1: Direct Downloads**
-- 📄 [snort3.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort3.rules)
-- 📄 [snort3-community.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/sort3-community.rules)
-- 📄 [snort2.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort2.rules)
-- 📄 [BLUE_TEAM_DEFENSE_DATASET.jsonl](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/BLUE_TEAM_DEFENSE_DATASET.jsonl)
+- 📄 [snort3.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort3.rules)
+- 📄 [snort3-community.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio/main/cybersecurity-analytics/enterprise-rule-intelligence/data/sort3-community.rules)
+- 📄 [snort2.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort2.rules)
+- 📄 [BLUE_TEAM_DEFENSE_DATASET.jsonl](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio/main/cybersecurity-analytics/enterprise-rule-intelligence/data/BLUE_TEAM_DEFENSE_DATASET.jsonl)
 
 **Option 2: Manual Download**
-1. Go to the [`data/`](https://github.com/Vit-O-Anjos/data-science-portfolio_0/tree/main/cybersecurity-analytics/enterprise-rule-intelligence/data) folder
+1. Go to the [`data/`](https://github.com/Vit-O-Anjos/data-science-portfolio/tree/main/cybersecurity-analytics/enterprise-rule-intelligence/data) folder
 2. Click each file → Click "Download" button
 3. Save files to your computer
 
