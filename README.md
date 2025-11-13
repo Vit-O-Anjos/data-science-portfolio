@@ -9,11 +9,11 @@ A comprehensive showcase of end-to-end data science work — from data cleaning 
 
 ## 🚀 Featured Projects
 
-### 🔤 Natural Language Processing
-- [**SpaCy Sentiment & Sarcasm Analysis**](./nlp/spacy-sentiment-analysis/) - Advanced NLP pipeline with transformer models for sentiment classification and sarcasm detection on Amazon reviews.
-
 ### 🛡️ Cybersecurity Analytics
 - [**Enterprise Detection Analytics Platform**](https://github.com/Vit-O-Anjos/data-science-portfolio/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb) - Comprehensive security rule intelligence platform analyzing 5+ detection formats (Snort, YARA, Sigma) with automated MITRE ATT&CK mapping, feature engineering, and 30+ enterprise visualizations for detection coverage optimization
+
+### 🔤 Natural Language Processing
+- [**SpaCy Sentiment & Sarcasm Analysis**](./nlp/spacy-sentiment-analysis/) - Advanced NLP pipeline with transformer models for sentiment classification and sarcasm detection on Amazon reviews.
 
 ### 📈 Analysis & Visualization
 - **[Titanic Survival Analysis](./data-analysis/titanic-survival-analysis)** - Exploratory analysis of passenger survival factors including gender, class, and fare disparities
