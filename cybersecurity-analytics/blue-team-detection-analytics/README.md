@@ -11,7 +11,7 @@
 
 ## 📖 About This Project
 
-This project delivers a comprehensive assessment of enterprise security detection capabilities by analyzing 350 detection rules across multiple platforms. Using the MITRE ATT&CK framework as a foundation, it identifies critical coverage gaps, evaluates platform effectiveness, and provides actionable recommendations for security operations teams.
+This project delivers a comprehensive assessment of enterprise security detection capabilities by analyzing 348 detection rules across multiple platforms. Using the MITRE ATT&CK framework as a foundation, it identifies critical coverage gaps, evaluates platform effectiveness, and provides actionable recommendations for security operations teams.
 
 **Key Differentiators:**
 - Real-world enterprise detection data analysis
@@ -57,17 +57,17 @@ This dashboard provides C-level visibility into:
 - **Risk Assessment**: Identification of coverage gaps and concentration risks  
 - **Operational Efficiency**: Signature complexity insights for performance optimization
 
-**Analysis Scope:** 350 enterprise detection rules assessed for coverage, effectiveness, and optimization opportunities.
+**Analysis Scope:** 348 enterprise detection rules assessed for coverage, effectiveness, and optimization opportunities.
 
 ### Key Findings at a Glance
 
 | Metric | Value | Insight |
 |--------|-------|---------|
-| **Total Rules Analyzed** | 350 | Comprehensive enterprise dataset |
+| **Total Rules Analyzed** | 348 | Comprehensive enterprise dataset (2 duplicates removed) |
 | **MITRE Tactics Covered** | 12/14 (85.7%) | Gaps identified in 2 tactics |
-| **Primary Platform** | Sigma (48%) | Platform concentration observed |
+| **Primary Platform** | Sigma (48.3%) | Platform concentration observed |
 | **Detection Patterns** | 4 types analyzed | Optimization opportunities identified |
-| **Unclassified Rules** | 125 (35.7%) | Classification improvement needed |
+| **Unclassified Rules** | 43 (12.4%) | Classification improvement needed |
 
 ---
 
@@ -76,11 +76,11 @@ This dashboard provides C-level visibility into:
 ### 1. Detection Portfolio Scale
 
 **Platform Distribution:**
-- **Sigma** (168 rules, 48%): Primary detection platform for log-based analysis
-- **YARA** (96 rules, 27.4%): File-based detection and malware identification
-- **Suricata** (86 rules, 24.6%): Network traffic analysis and threat detection
+- **Sigma** (166 rules, 48.3%): Primary detection platform for log-based analysis
+- **YARA** (96 rules, 27.6%): File-based detection and malware identification
+- **Suricata** (86 rules, 24.7%): Network traffic analysis and threat detection
 
-**Observation:** Platform concentration analysis reveals 48% of detection rules deployed on a single platform.
+**Observation:** Platform concentration analysis reveals 48.3% of detection rules deployed on a single platform (Sigma).
 
 ### 2. MITRE ATT&CK Coverage Analysis
 
@@ -122,12 +122,12 @@ This dashboard provides C-level visibility into:
 *Figure 5: Pattern type distribution and utilization rates*
 
 **Pattern Analysis:**
-- Network Indicators: 107 rules (30.6%)
-- File Indicators: 65 rules (18.6%)
+- Network Indicators: 107 rules (30.7%)
+- File Indicators: 65 rules (18.7%)
 - System Indicators: 30 rules (8.6%)
-- Regex Patterns: 104 rules (29.7%)
+- Regex Patterns: 104 rules (29.9%)
 
-**Analysis Finding:** System indicators represent 8.6% of detection portfolio compared to network indicators at 30.6%.
+**Analysis Finding:** System indicators represent 8.6% of detection portfolio compared to network indicators at 30.7%.
 
 ### 6. Attack Lifecycle Coverage
 
@@ -161,25 +161,25 @@ This dashboard provides C-level visibility into:
    - **Analysis Goal:** Achieve coverage across all 14 MITRE tactics
 
 2. **⚠️ Improve Rule Classification**
-   - Review 125 "Other" category rules for proper MITRE mapping
-   - **Analysis Goal:** Improve classification accuracy from 64.3% to target threshold
+   - Review **43** "Other" category rules (12.4%) for proper MITRE mapping
+   - **Analysis Goal:** Improve classification accuracy from **87.6%** to target threshold
 
 ### Short-Term Initiatives (30-90 days)
 
 3. **📊 Optimize Pattern Distribution**
-   - Evaluate increasing system indicators from current 8.6%
+   - Evaluate increasing system indicators from current 8.6% (30 rules)
    - Assess balance between detection pattern types
    - **Analysis Goal:** More balanced pattern utilization across categories
 
 4. **🔧 Platform Distribution Assessment**
-   - Review Sigma concentration (currently 48%)
+   - Review Sigma concentration (currently 48.3%, 168 rules)
    - Evaluate platform diversity opportunities
    - **Analysis Goal:** Assess optimal platform distribution strategy
 
 ### Long-Term Strategy (90-180 days)
 
 5. **🚀 Cross-Platform Integration**
-   - Explore multi-platform detection correlation opportunities
+   - Explore multi-pattern detection correlation opportunities (currently 50%)
    - Develop correlation rules for critical tactics
    - **Analysis Goal:** Enhanced detection through platform integration
 
@@ -191,18 +191,19 @@ This dashboard provides C-level visibility into:
 
 | Metric | Current Value | Observation |
 |--------|--------------|-------------|
-| MITRE Coverage | 85.7% (12/14) | 2 tactics without coverage |
-| Platform Distribution | Sigma 48%, YARA 27.4%, Suricata 24.6% | Concentration in primary platform |
-| System Indicators | 8.6% (30 rules) | Lower than network indicators (30.6%) |
-| Classification | 64.3% mapped | 125 rules in "Other" category |
-| Multi-Pattern Rules | 174 rules (49.7%) | Balanced single/multi-pattern distribution |
+| **Total Rules** | 348 rules | 2 duplicates removed from original 350 |
+| **MITRE Coverage** | 85.7% (12/14) | Reconnaissance & Collection tactics undefended |
+| **Platform Distribution** | Sigma 48.3%, YARA 27.6%, Suricata 24.7% | Concentration in primary platform |
+| **System Indicators** | 8.6% (30 rules) | Lower than network indicators (30.7%, 107 rules) |
+| **Classification** | 87.6% mapped | 43 rules (12.4%) unclassified |
+| **Multi-Pattern Rules** | 174 rules (50.0%) | Balanced single/multi-pattern distribution |
 
 ### Strategic Improvement Priorities
 
 - **Critical Coverage Gaps:** Reconnaissance and Collection tactics currently undefended
-- **Pattern Utilization:** System indicators (8.6%) significantly trail network indicators (30.6%)
-- **Taxonomy Alignment:** 125 rules (35.7%) require MITRE framework classification
-- **Platform Distribution:** Sigma concentration (48%) indicates potential diversification opportunity
+- **Pattern Utilization:** System indicators (8.6%, 30 rules) significantly trail network indicators (30.7%, 107 rules)
+- **Taxonomy Alignment:** 43 rules (12.4%) require MITRE framework classification
+- **Platform Distribution:** Sigma concentration (48.3%, 168 rules) indicates potential diversification opportunity
 
 ---
 
@@ -216,7 +217,8 @@ Python 3.8+          # Core analysis language
 ├── numpy            # Numerical computing
 ├── matplotlib       # Statistical visualizations
 ├── seaborn          # Enhanced data visualization
-└── attackcti        # MITRE ATT&CK integration
+├── attackcti        # MITRE ATT&CK integration
+└── re               # Advanced pattern detection
 
 Jupyter Notebook     # Reproducible analysis workflow
 MITRE ATT&CK v12     # Industry-standard threat taxonomy
@@ -259,10 +261,7 @@ git clone https://github.com/Vit-O-Anjos/data-science-portfolio_0.git
 cd data-science-portfolio_0/cybersecurity-analytics/blue-team-detection-analytics
 
 # Install required packages
-pip install pandas numpy matplotlib seaborn jupyter
-
-# Optional: Install MITRE ATT&CK integration (for live STIX data)
-pip install attackcti
+pip install -r requirements.txt
 
 # Optional: Create virtual environment (recommended)
 python -m venv venv
@@ -307,7 +306,7 @@ blue-team-detection-analytics/
 
 ### Data Sources
 
-- **350 detection rules** from enterprise security operations
+- **348 detection rules** from enterprise security operations (2 duplicates removed)
 - **Multi-platform coverage:** Sigma (log-based), YARA (file-based), Suricata (network-based)
 - **MITRE ATT&CK v12:** Industry-standard adversary tactics and techniques framework
 - **Real-world patterns:** Production detection signatures from operational environments
@@ -347,7 +346,7 @@ blue-team-detection-analytics/
 - ✅ Benchmark detection capabilities using MITRE ATT&CK framework
 
 ### For Security Architects
-- ✅ Evaluate detection portfolio coverage metrics (12/14 tactics, 350 rules analyzed)
+- ✅ Evaluate detection portfolio coverage metrics (12/14 tactics, 348 rules analyzed)
 - ✅ Analyze platform distribution patterns
 - ✅ Assess cross-platform coverage opportunities
 - ✅ Review detection strategy alignment with MITRE framework
@@ -369,7 +368,7 @@ blue-team-detection-analytics/
 ## 📚 Documentation & Resources
 
 ### Analysis Components
-- 📊 **Executive Dashboard** - 4-panel strategic overview
+- 📊 **Executive Dashboard** - 14-panel strategic overview
 - 🔬 **MITRE Coverage Analysis** - Tactic and technique mapping
 - 🎯 **Platform Assessment** - Multi-platform capability evaluation
 - 📈 **Pattern Analysis** - Detection indicator utilization
@@ -385,8 +384,8 @@ blue-team-detection-analytics/
 ## 📫 Contact & Connect
 
 **Vitor Anjos**
-- 🔗 [LinkedIn] [Vitor Anjos](https://www.linkedin.com/in/vitor-anjos-33242a107/)
-- 💼 [Portfolio] [data-science-portfolio](https://github.com/Vit-O-Anjos/data-science-portfolio)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vitor-anjos-33242a107/)
+- 💼 [Portfolio](https://github.com/Vit-O-Anjos/data-science-portfolio)
 
 ---
 
@@ -417,4 +416,3 @@ If you find this analysis valuable for security operations, please consider givi
 Made with 🎨 and 🔐 by [Vitor Anjos](https://github.com/Vit-O-Anjos)
 
 </div>
-
