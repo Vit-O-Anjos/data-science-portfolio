@@ -124,7 +124,7 @@ This dashboard provides C-level visibility into:
 **Pattern Analysis:**
 - Network Indicators: 107 rules (30.7%)
 - File Indicators: 65 rules (18.7%)
-- System Indicators: 30 rules (8.6%)
+- System Indicators: 29 rules (8.3%)
 - Regex Patterns: 104 rules (29.9%)
 
 **Analysis Finding:** System indicators represent 8.6% of detection portfolio compared to network indicators at 30.7%.
