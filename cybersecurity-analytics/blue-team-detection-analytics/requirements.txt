@@ -1,9 +1,10 @@
+# Core Data Analysis
 pandas>=1.5.0
 numpy>=1.21.0
+
+# Visualization
 matplotlib>=3.5.0
 seaborn>=0.11.0
-jupyter>=1.0.0
-scikit-learn>=1.0.0
-plotly>=5.0.0
-jupyterlab>=3.0.0
-attackcti>=0.4.1  
+
+# Enhanced MITRE ATT&CK Integration (optional but recommended)
+attackcti>=0.4.1
