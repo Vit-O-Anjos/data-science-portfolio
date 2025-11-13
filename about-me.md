@@ -1,6 +1,6 @@
 # Vitor Anjos - Data Professional
 
-**Data Analyst | Data Scientist | Machine Learning & NLP Specialist**
+**Data Analyst | Data Scientist | Machine Learning & NLP Engineer**
 
 ## 👨‍💻 About Me
 
