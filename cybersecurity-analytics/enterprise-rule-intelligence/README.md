@@ -211,7 +211,7 @@ Four-panel strategic overview with advanced metrics including outlier detection 
 
 **Option 1: Direct Downloads**
 - 📄 [snort3.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort3.rules)
-- 📄 [snort3-community.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/sort3-community.rules)
+- 📄 [snort3-community.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/refs/heads/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort3-community.rules?token=GHSAT0AAAAAADPBRSWEUW7LOEQKHJPPAGHQ2IVWRGQ)
 - 📄 [snort2.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort2.rules)
 - 📄 [BLUE_TEAM_DEFENSE_DATASET.jsonl](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/BLUE_TEAM_DEFENSE_DATASET.jsonl)
 
