@@ -74,12 +74,14 @@ Generates **30+ professional visualizations** across two dashboard types:
 
 ## Technical Specifications
 
-- **Language**: Python 3.x
-- **Code Size**: 600+ lines of production-quality code
-- **Architecture**: 5-stage modular pipeline
-- **Visualization Library**: Matplotlib, Seaborn
-- **Data Processing**: Pandas, NumPy
-- **Compatibility**: Universal support for Colab, Jupyter, VS Code
+- **Language**: Python 3.8+
+- **Code Size**: ~450 lines of production-quality code
+- **Architecture**: 5-stage modular pipeline with enhanced universal loader
+- **Visualization Engine**: 30+ professional charts (14 executive + 17 technical)
+- **Data Processing**: Pandas, NumPy with comprehensive feature engineering
+- **MITRE Coverage**: 200+ techniques with official STIX/TAXII integration
+- **Compatibility**: Universal support for Colab, Jupyter, VS Code, JupyterLab
+- **Dependencies**: 10+ carefully selected packages with optional imports
 
 ## Installation
 
@@ -203,18 +205,18 @@ Four-panel strategic overview with advanced metrics including outlier detection 
 ## 🚀 Live Demo & Complete Output
 
 ### 🛠️ Interactive Version (Ready to Run)
-- 🎮 [Run in Google Colab](https://colab.research.google.com/github/Vit-O-Anjos/data-science-portfolio/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb)
+- 🎮 [Run in Google Colab](https://colab.research.google.com/github/Vit-O-Anjos/data-science-portfolio_0/blob/main/cybersecurity-analytics/enterprise-rule-intelligence/enterprise_intelligence_platform.ipynb)
 
 **To use sample data:**
 
 **Option 1: Direct Downloads**
-- 📄 [snort3.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort3.rules)
-- 📄 [snort3-community.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio/refs/heads/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort3-community.rules)
-- 📄 [snort2.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort2.rules)
-- 📄 [BLUE_TEAM_DEFENSE_DATASET.jsonl](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio/main/cybersecurity-analytics/enterprise-rule-intelligence/data/BLUE_TEAM_DEFENSE_DATASET.jsonl)
+- 📄 [snort3.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort3.rules)
+- 📄 [snort3-community.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/sort3-community.rules)
+- 📄 [snort2.rules](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/snort2.rules)
+- 📄 [BLUE_TEAM_DEFENSE_DATASET.jsonl](https://raw.githubusercontent.com/Vit-O-Anjos/data-science-portfolio_0/main/cybersecurity-analytics/enterprise-rule-intelligence/data/BLUE_TEAM_DEFENSE_DATASET.jsonl)
 
 **Option 2: Manual Download**
-1. Go to the [`data/`](https://github.com/Vit-O-Anjos/data-science-portfolio/tree/main/cybersecurity-analytics/enterprise-rule-intelligence/data) folder
+1. Go to the [`data/`](https://github.com/Vit-O-Anjos/data-science-portfolio_0/tree/main/cybersecurity-analytics/enterprise-rule-intelligence/data) folder
 2. Click each file → Click "Download" button
 3. Save files to your computer
 
@@ -228,45 +230,38 @@ Four-panel strategic overview with advanced metrics including outlier detection 
 
 ## Architecture
 
-### Enhanced Universal Data Loader
-- **Environment Detection**: Automatically adapts to Colab, Jupyter, or VS Code
-- **Multi-format Handling**: Processes both analytics-ready and raw rule files
-- **Path-based Loading**: Supports local file paths in Jupyter/VS Code
-- **Upload Handling**: Manages file uploads in Colab environment
+### Enhanced 5-Stage Analytical Pipeline
 
-### Stage 1: Universal Rule Converter
-- Format detection and parsing
-- MITRE ATT&CK technique mapping
-- Threat categorization
-- Feature extraction
+#### Stage 1: Universal Rule Converter
+- Multi-format parsing with auto-detection
+- MITRE ATT&CK mapping (200+ techniques)
+- Threat categorization and feature extraction
 
-### Stage 2: Core Analytics Engine
-- Data loading and validation
+#### Stage 2: Core Analytics Engine  
+- Data validation and quality reporting
 - MITRE taxonomy integration
-- Feature engineering
+- Advanced feature engineering
 
-### Stage 3: Analytics Modules
-- Coverage Analyzer
-- Pattern Analyzer
-- Statistical analysis
+#### Stage 3: Comprehensive Analytics Modules
+- Coverage Analyzer: MITRE tactic/technique coverage
+- Optimization Finder: Statistical analysis
+- Pattern Analyzer: Detection pattern effectiveness
 
-### Stage 4: Visualization Engine
-- Executive Dashboard (14 charts)
-- Technical Analysis (17 individual charts)
-- Professional styling and statistics
+#### Stage 4: Professional Visualization Engine
+- **Executive Dashboard**: 14 integrated visualizations
+- **Technical Analysis**: 23 detailed analytical visualisations
 
-### Stage 5: Unified Main Engine
-- Automatic format detection
-- End-to-end analytics workflow
-- Report generation
+#### Stage 5: Unified Main Engine
 - Multi-environment compatibility
+- End-to-end workflow automation
+- Comprehensive reporting
 
 ## Output
 
 The platform generates:
 
 1. **Executive Dashboard**: Single comprehensive image with 14 integrated visualizations
-2. **Individual Technical Charts**: 17 detailed analytical visualizations
+2. **Technical Charts**: 17 detailed analytical visualizations
 3. **Reports Directory**: All visualizations saved as high-resolution PNG files (300 DPI)
 4. **Console Report**: Statistical summary with key metrics
 
@@ -340,23 +335,39 @@ Enhanced compatibility features:
 
 ## Dependencies
 
-**Core Requirements**:
-- `pandas`: Data processing
-- `matplotlib`: Visualization
-- `seaborn`: Statistical visualizations
-- `numpy`: Numerical operations
-- `ipywidgets`: Interactive interface
+**Core Requirements** (required for basic functionality):
+- `pandas>=1.5.0`, `numpy>=1.21.0` - Data processing and analysis
+- `matplotlib>=3.5.0`, `seaborn>=0.11.0` - Visualization engine
+- `ipywidgets>=7.7.0`, `IPython>=8.0.0` - Interactive interface
+- `scipy>=1.7.0` - Statistical analysis for enhanced visualizations
 
-**Optional**:
-- `attackcti`: Official MITRE ATT&CK data (recommended)
+**Optional Dependencies** (for extended functionality):
+- `attackcti>=0.3.0` - Official MITRE ATT&CK data integration
+- `pyarrow>=10.0.0` - Parquet file format support
+- `ijson>=3.0.0` - Streamed JSON processing for large files
+
+**Installation Commands**:
+
+```bash
+# Complete installation (all features)
+pip install pandas matplotlib seaborn numpy ipywidgets scipy pyarrow attackcti
+
+# Minimal installation (core functionality) 
+pip install pandas matplotlib seaborn numpy ipywidgets scipy
+
+```
 
 ## Troubleshooting
 
 ### Common Issues
 
 **File Upload Not Working (Jupyter/VS Code)**
-- Use local file path instead of upload widget
-- Ensure file path is accessible to the notebook
+- Use the "Local Path" input field instead of file upload
+- Ensure file path is accessible to the notebook environment
+
+**Parquet File Errors**
+- Install pyarrow for parquet support: `pip install pyarrow`
+- The platform provides clear error messages if parquet support is missing
 
 **Visualization Display Issues**
 - Restart kernel and run all cells
@@ -378,9 +389,9 @@ Enhanced compatibility features:
 
 ## ⭐ Star This Project
 
-If you find this analysis valuable for security operations, please consider giving it a star!
+If you find this analysis valuable for security operations, please consider giving it a star! 
 
-![GitHub stars](https://img.shields.io/github/stars/Vit-O-Anjos/data-science-portfolio?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/Vit-O-Anjos/data-science-portfolio?style=social)](https://github.com/Vit-O-Anjos/data-science-portfolio)
 
 > Transform raw detection rules into actionable security intelligence—identify coverage gaps, optimize performance, and make data-driven decisions about your defensive capabilities.
 
@@ -394,6 +405,6 @@ If you find this analysis valuable for security operations, please consider givi
 
 ---
 
-Made with 🏗️ and 🔐 by **Vitor Anjos**
+Made with 🏗️ and 🔐 by [Vitor Anjos](https://github.com/Vit-O-Anjos)
 
 </div>
