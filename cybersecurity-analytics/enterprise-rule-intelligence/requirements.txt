@@ -25,10 +25,10 @@ attackcti>=0.3.0
 # Optional Dependencies
 # =============================================================================
 
-# Enhanced statistical visualizations (optional)
+# Enhanced statistical visualizations
 scipy>=1.7.0
 
-# Streamed JSON processing for large files (optional)
+# Streamed JSON processing for large files
 ijson>=3.0.0
 
 # =============================================================================
