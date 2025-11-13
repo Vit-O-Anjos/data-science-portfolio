@@ -11,40 +11,34 @@ numpy>=1.21.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
 
-# Jupyter/Interactive Environment
+# Interactive UI Components
 ipywidgets>=7.7.0
 IPython>=8.0.0
-jupyter>=1.0.0
 
-# MITRE ATT&CK Integration
-attackcti>=0.3.0
-
-# =============================================================================
-# Enhanced Functionality Dependencies
-# =============================================================================
-
-# Statistical Analysis for density plots
-scipy>=1.7.0
-
-# Parquet file format support
+# File Format Support (ESSENTIAL for parquet functionality)
 pyarrow>=10.0.0
+
+# MITRE ATT&CK Integration (with graceful fallback)
+attackcti>=0.3.0
 
 # =============================================================================
 # Optional Dependencies
 # =============================================================================
 
-# Streamed JSON processing for large files
+# Enhanced statistical visualizations (optional)
+scipy>=1.7.0
+
+# Streamed JSON processing for large files (optional)
 ijson>=3.0.0
 
 # =============================================================================
-# Development Dependencies
+# Development Dependencies (NOT required for end users)
 # =============================================================================
 
-# Testing framework
+# Jupyter environment
+jupyter>=1.0.0
+
+# Testing & code quality
 pytest>=6.0.0
-
-# Code formatting
 black>=22.0.0
-
-# Code linting
 flake8>=4.0.0
