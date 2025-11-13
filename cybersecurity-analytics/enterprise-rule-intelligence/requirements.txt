@@ -15,7 +15,7 @@ seaborn>=0.11.0
 ipywidgets>=7.7.0
 IPython>=8.0.0
 
-# File Format Support (ESSENTIAL for parquet functionality)
+# File Format Support
 pyarrow>=10.0.0
 
 # MITRE ATT&CK Integration (with graceful fallback)
