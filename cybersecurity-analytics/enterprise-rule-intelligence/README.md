@@ -300,7 +300,7 @@ enterprise-rule-intelligence/
   ├── executive_dashboard.png
   ├── mitre_coverage_suite.png
   ├── cross_platform_heatmaps.png
-  └── ... (28 additional technical charts)
+  └── ... (20+ additional technical charts)
 ```
 
 ## Technical Approach
