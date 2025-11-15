@@ -28,7 +28,7 @@ Now supporting all major Python environments:
 
 ## Overview
 
-This platform provides automated analysis and visualization of detection rules from various security platforms (Snort, YARA, Sigma, Elastic). It parses rule files, maps them to the MITRE ATT&CK framework, and generates detailed analytical visualizations to help security teams understand their detection coverage.
+This platform provides automated analysis and visualization of detection rules from various security platforms (Snort, YARA, Sigma, Elastic). It parses rule files, maps them to the MITRE ATT&CK framework, and generates detailed analytical visualisations to help security teams understand their detection coverage.
 
 ## Key Features
 
@@ -67,10 +67,10 @@ The platform performs three types of analysis:
 
 ### Visualization Engine
 
-Generates **30+ professional visualizations** across two dashboard types:
+Generates **30+ professional visualisations** across two dashboard types:
 
-- **Executive Dashboard** (14 visualizations): High-level security posture overview
-- **Technical Analysis** (17 visualizations): Detailed analytical charts with comprehensive statistics
+- **Executive Dashboard** (14 visualisations): High-level security posture overview
+- **Technical Analysis** (17 visualisations): Detailed analytical charts with comprehensive statistics
 
 ## Technical Specifications
 
@@ -107,14 +107,14 @@ pip install attackcti
 2. Run all cells to initialize the platform
 3. Click "🚀 Analyze ANY Detection Rules Data"
 4. Upload your detection rules file (any supported format)
-5. View generated visualizations and reports
+5. View generated visualisations and reports
 
 ### In Jupyter Notebook / VS Code
 
 1. Open the notebook in your preferred environment
 2. Run all cells to initialize the platform
 3. Use the file path input to analyze local detection rule files
-4. View generated visualizations directly in the notebook
+4. View generated visualisations directly in the notebook
 
 ### Local File Analysis (Jupyter/VS Code)
 
@@ -164,7 +164,7 @@ pip install jupyterlab
 jupyter lab
 ```
 
-## Sample Visualizations
+## Sample Visualisations
 
 ### MITRE ATT&CK Coverage Analysis Suite
 Comprehensive three-panel view from the executive dashboard showing tactical coverage, top techniques, and efficiency analysis:
@@ -226,7 +226,7 @@ Four-panel strategic overview with advanced metrics including outlier detection 
 
 ### 📁 Project Outputs
 - 📈 [View Complete Analysis Output](DEMO_OUTPUT.md)
-- 🖼️ [All Generated Visualizations](visualisations/)
+- 🖼️ [All Generated Visualisations](visualisations/)
 
 ## Architecture
 
@@ -248,7 +248,7 @@ Four-panel strategic overview with advanced metrics including outlier detection 
 - Pattern Analyzer: Detection pattern effectiveness
 
 #### Stage 4: Professional Visualization Engine
-- **Executive Dashboard**: 14 integrated visualizations
+- **Executive Dashboard**: 14 integrated visualisations
 - **Technical Analysis**: 23 detailed analytical visualisations
 
 #### Stage 5: Unified Main Engine
@@ -260,8 +260,8 @@ Four-panel strategic overview with advanced metrics including outlier detection 
 
 The platform generates:
 
-1. **Executive Dashboard**: Single comprehensive image with 14 integrated visualizations
-2. **Technical Charts**: 17 detailed analytical visualizations
+1. **Executive Dashboard**: Single comprehensive image with 14 integrated visualisations
+2. **Technical Charts**: 17 detailed analytical visualisations
 3. **Reports Directory**: All visualisations saved as PNG files
 4. **Console Report**: Statistical summary with key metrics
 
@@ -339,7 +339,7 @@ Enhanced compatibility features:
 - `pandas>=1.5.0`, `numpy>=1.21.0` - Data processing and analysis
 - `matplotlib>=3.5.0`, `seaborn>=0.11.0` - Visualization engine
 - `ipywidgets>=7.7.0`, `IPython>=8.0.0` - Interactive interface
-- `scipy>=1.7.0` - Statistical analysis for enhanced visualizations
+- `scipy>=1.7.0` - Statistical analysis for enhanced visualisations
 
 **Optional Dependencies** (for extended functionality):
 - `attackcti>=0.3.0` - Official MITRE ATT&CK data integration
