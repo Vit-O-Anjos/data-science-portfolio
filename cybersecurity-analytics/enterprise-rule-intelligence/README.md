@@ -262,7 +262,7 @@ The platform generates:
 
 1. **Executive Dashboard**: Single comprehensive image with 14 integrated visualizations
 2. **Technical Charts**: 17 detailed analytical visualizations
-3. **Reports Directory**: All visualizations saved as high-resolution PNG files (300 DPI)
+3. **Reports Directory**: All visualisations saved as PNG files
 4. **Console Report**: Statistical summary with key metrics
 
 ## MITRE ATT&CK Integration
