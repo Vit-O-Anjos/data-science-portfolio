@@ -3,6 +3,10 @@
 ## Overview
 Advanced multiple linear regression project predicting diabetes disease progression using clinical measurements. Features comprehensive analysis of scaling techniques (MinMaxScaler vs StandardScaler) and detailed model interpretation with coefficient analysis.
 
+## 👁️ Live Demo
+
+[![Open in nbviewer](https://img.shields.io/badge/View_Full_Notebook-nbviewer-orange)](https://nbviewer.org/github/Vit-O-Anjos/data-science-portfolio/blob/main/machine-learning/multiple-linear-regression/multiple-linear-regression.ipynb)
+
 ## 🎯 Project Highlights
 - **Multiple Linear Regression** implementation with 10 clinical features  
 - **Comprehensive Scaling Analysis** comparing MinMaxScaler vs StandardScaler  
