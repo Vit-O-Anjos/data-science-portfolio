@@ -10,7 +10,7 @@ I have engineered neural networks from scratch to model complex logic gates, opt
 
 My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and SpaCy—applied across real-world datasets and projects with consistent top-tier performance. I am actively seeking opportunities where I can apply my skills in machine learning, advanced NLP, and data visualization to solve impactful problems and support data-driven decision-making.
 
-**Open to:** Security Engineer, Data Scientist, Machine Learning Engineer, NLP Specialist, Data Analyst roles
+**Open to:** Security Data Scientist, Machine Learning Engineer, Data Scientist, NLP Specialist, Data Analyst roles.
 
 ## 🔬 What I Do
 
