@@ -10,7 +10,7 @@
 ## 💻 Programming Certifications
 - **Cisco Python Essentials Certificate**
 
-### 🛠️ Verified Technical Competencies
+## 🛠️ Verified Technical Competencies
 - **Programming Languages**: Python, SQL, Bash
 - **Machine Learning**: Random Forests, Decision Trees, Linear/Logistic Regression, Clustering
 - **Neural Networks & Deep Learning**: TensorFlow, Keras, CNN architectures, model optimization
