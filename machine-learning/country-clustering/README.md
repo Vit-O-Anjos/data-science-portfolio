@@ -145,9 +145,7 @@ Three distinct development clusters showing progression from least developed to 
 
 This clustering analysis successfully categorizes countries into meaningful development stages that align with real-world economic and health indicators. The data-driven framework provides valuable insights for international development analysis, policy targeting, and resource allocation strategies. The clear progression from least developed to developed countries across all socio-economic metrics demonstrates the robustness of the clustering approach and its practical applicability for global development initiatives.
 
-## 🛠️ Technical Implementation
-
-### Usage
+## 🚀 Quick Start
 
 ```bash
 # Install dependencies
@@ -155,3 +153,4 @@ pip install -r requirements.txt
 
 # Run the Jupyter notebook to explore analysis and results
 jupyter notebook country_clustering_analysis.ipynb
+```
