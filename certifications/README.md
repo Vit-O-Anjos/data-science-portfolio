@@ -1,23 +1,22 @@
 # Professional Certifications & Credentials
 
 ## 🎓 Data Science & Analytics
-- 🏆 **CoGrammar Data Science Certificate** (Imperial College London endorsed)
-  - 98% Overall Grade
-- 🏅 **HyperionDev Data Science Program Excellence**
+- 🏆 **Data Science Certificate** (HyperionDev - Imperial College London endorsed)
+  - 🏅 **98% Overall Grade**
+  - **Post-Assessment MCQ**: 100% Score
+  - **Data Analysis Projects**: Consistent Top Marks
+  - **Machine Learning Specializations**: Multiple 100% scores
 
 ## 💻 Programming Certifications
 - **Cisco Python Essentials Certificate**
 
-## 📊 Assessment Performance
-- 🥇 **Post-Assessment MCQ**: 100% Score  
-- 🥇 **Data Analysis Projects**: Consistent Top Marks  
-- 🥇 **Machine Learning Specializations**: Multiple 100% scores  
-
-## 🛠️ Technical Competencies Verified
-- Python Programming & OOP
-- Machine Learning (Random Forests, Decision Trees, Linear/Logistic Regression)
-- Natural Language Processing (SpaCy, Transformer Models)
-- Data Analysis & Visualization (pandas, matplotlib, seaborn)
+### 🛠️ Verified Technical Competencies
+- **Programming Languages**: Python, SQL, Bash
+- **Machine Learning**: Random Forests, Decision Trees, Linear/Logistic Regression, Clustering
+- **Neural Networks & Deep Learning**: TensorFlow, Keras, CNN architectures, model optimization
+- **Natural Language Processing**: SpaCy, Transformer Models, Sentiment Analysis
+- **Data Analysis & Visualization**: pandas, matplotlib, seaborn, statistical testing
+- **Software Engineering**: Object-Oriented Programming, modular design, error handling
 
 ---
 
