@@ -4,6 +4,10 @@
 
 Advanced multi-class classification project predicting iris flower species using logistic regression. Features comprehensive exploratory data analysis, feature correlation studies, and professional model evaluation with stratified sampling and confusion matrix analysis.
 
+## 👁️ Live Demo
+
+[![Open in nbviewer](https://img.shields.io/badge/View_Full_Notebook-nbviewer-orange)](https://nbviewer.org/github/Vit-O-Anjos/data-science-portfolio/blob/main/machine-learning/iris-classification/iris_classification.ipynb)
+
 ## 🎯 Project Highlights
 
 - **Multi-class Logistic Regression** implementation with 4 morphological features
