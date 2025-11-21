@@ -141,18 +141,14 @@ This project evolved from basic Random Forest implementation to comprehensive ma
 - Systematic experimentation is crucial for optimal performance  
 - Domain knowledge integration enhances model interpretability
 
-*Demonstrating that in machine learning, sometimes the most elegant solution is also the most effective.*
-
 ## 🚀 Quick Start
 
-### Installation
 ```bash
+# Install dependencies
 pip install -r requirements.txt
 
-# Usage
-
+# Run the Jupyter notebook to explore analysis and results
 jupyter notebook titanic_survival_prediction.ipynb
+```
 
-
-
-
+*Demonstrating that in machine learning, sometimes the most elegant solution is also the most effective.*
