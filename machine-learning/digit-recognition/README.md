@@ -53,9 +53,12 @@ Advanced machine learning project implementing Random Forest classification on t
 
 *Random sample of digit predictions showing model's accurate classification capabilities*
 
-
-
 ## 🚀 Quick Start
+
 ```bash
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the Jupyter notebook to explore analysis and results
 jupyter notebook random_forest_digit_recognition.ipynb
+```
