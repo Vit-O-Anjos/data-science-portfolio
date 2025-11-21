@@ -95,10 +95,10 @@ Advanced multiple linear regression project predicting diabetes disease progress
 
 ## 🚀 Quick Start
 
-### Installation  
-
+```bash
+# Install dependencies 
 pip install -r requirements.txt
 
-### Usage  
-
-jupyter notebook diabetes_progression_regression.ipynb
+# Run the Jupyter notebook to explore analysis and results
+jupyter notebook multiple-linear-regression.ipynb
+```
