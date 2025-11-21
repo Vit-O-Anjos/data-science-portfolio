@@ -113,6 +113,10 @@ Detailed performance metrics per class showing 100% setosa accuracy and strong v
 
 ## 🚀 Quick Start
 
-### Installation
 ```bash
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the Jupyter notebook to explore analysis and results
+jupyter notebook iris_classification.ipynb
+```
