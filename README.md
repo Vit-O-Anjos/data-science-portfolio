@@ -75,4 +75,4 @@ jupyter notebook
 
 ---
 
-📊 Data Science Portfolio | Vitor Anjos | Last Updated: October 2025
+📊 Data Science Portfolio | Vitor Anjos | Last Updated: November 2025
