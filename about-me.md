@@ -4,13 +4,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data Scientist and Python Developer with deep expertise in machine learning, neural network architecture, and natural language processing. I specialize in transforming raw and complex data into intelligent solutions using predictive modeling, sarcasm-aware sentiment analysis, and exploratory data analysis that drives actionable business insights.
+I'm a Data Scientist and Python Developer specializing in cybersecurity analytics, machine learning, and natural language processing. I build enterprise detection platforms and transform complex data into actionable security intelligence using predictive modeling, sentiment analysis, and scalable data pipelines.
 
-I have engineered neural networks from scratch to model complex logic gates, optimized Random Forests with hyperparameter tuning, and developed modular, scalable ML pipelines using object-oriented Python. My work demonstrates strong capabilities in both theoretical understanding and practical implementation across the full data science lifecycle.
+My work includes developing comprehensive rule intelligence systems, optimizing ML models with hyperparameter tuning, and creating production-ready applications using object-oriented Python. I bridge data science with cybersecurity to solve real-world detection engineering challenges.
 
 My toolkit includes TensorFlow, scikit-learn, pandas, matplotlib, seaborn, and SpaCy—applied across real-world datasets and projects with consistent top-tier performance. I am actively seeking opportunities where I can apply my skills in machine learning, advanced NLP, and data visualization to solve impactful problems and support data-driven decision-making.
 
-**Open to:** Security Data Scientist, Machine Learning Engineer, Data Scientist, NLP Specialist, Data Analyst roles.
+**Open to:** Security Data Scientist, ML Engineer, Data Scientist, NLP Specialist, Data Analyst roles.
 
 ## 🔬 What I Do
 
@@ -54,6 +54,11 @@ I transform complex data into actionable insights through:
 
 ## 🎯 Professional Focus
 
+### Cybersecurity Analytics
+- Developing enterprise detection platforms and rule intelligence systems
+- Analyzing multiple detection formats (Snort, YARA, Sigma) with MITRE ATT&CK mapping
+- Building security data pipelines for threat intelligence and detection coverage
+
 ### Machine Learning Engineering
 - Building scalable ML pipelines from data ingestion to deployment
 - Implementing robust model evaluation and validation frameworks
@@ -89,7 +94,7 @@ I believe in:
 
 I'm always interested in discussing data science, machine learning, and new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vitor-anjos-33242a107/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vitor-david-anjos-33242a107/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Vit-O-Anjos)
 
 *Preferred contact: LinkedIn*
@@ -97,4 +102,3 @@ I'm always interested in discussing data science, machine learning, and new oppo
 ---
 
 *"Transforming raw data into intelligent solutions through rigorous analysis and innovative machine learning"*
-
