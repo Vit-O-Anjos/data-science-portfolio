@@ -37,4 +37,5 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
 # Run Jupyter notebook
-jupyter notebook your_notebook_name.ipynb
+jupyter notebook sarcasm_aware_sentiment_analysis.ipynb
+```
