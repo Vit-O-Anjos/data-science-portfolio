@@ -3,6 +3,10 @@
 ## Overview
 Advanced machine learning project implementing Random Forest classification on the sklearn load_digits dataset. Features comprehensive image preprocessing with histogram equalization and hyperparameter optimization using GridSearchCV, achieving **98% accuracy** in handwritten digit recognition.
 
+## 🎯 Live Demo
+
+[![Open in nbviewer](https://img.shields.io/badge/👁️_View_Full_Notebook-nbviewer-orange)](https://nbviewer.org/github/Vit-O-Anjos/data-science-portfolio/blob/main/machine-learning/digit-recognition/random_forest_digit_classification.ipynb)
+
 ## 🎯 Project Highlights
 - **98% Accuracy** on 8x8 pixel handwritten digit classification
 - **Advanced Image Preprocessing** with histogram equalization
