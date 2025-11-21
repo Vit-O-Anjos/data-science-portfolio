@@ -41,5 +41,9 @@ This analysis demonstrates how data storytelling can reveal historical patterns 
 
 ## 🚀 Quick Start
 ```bash
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the Jupyter notebook to explore analysis and results
 jupyter notebook titanic_analysis.ipynb
+```
