@@ -25,8 +25,7 @@ A comprehensive showcase of end-to-end data science work — from data cleaning 
 - **[Country Development Clustering](./machine-learning/country-clustering)** - K-means clustering of 167 countries by socio-economic factors to determine development status
 - **[Iris Classification](machine-learning/iris-classification/)** - 91.1% accuracy multi-class species classification with logistic regression, feature correlation analysis, and stratified performance evaluation.
 
-### 💻 Programming & Software Engineering
-- **Modular Functions**
+### 💻 Software Engineering
 - [**Holiday Cost Calculator**](./software-engineering/modular-functions/holiday-cost-calculator) - Function decomposition and clean architecture with robust input validation. **Production-ready code architecture**
 
 ## 📜 Certifications
@@ -47,23 +46,6 @@ A comprehensive showcase of end-to-end data science work — from data cleaning 
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vitor-anjos-33242a107/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Vit-O-Anjos)
-
-*Preferred contact: LinkedIn*
-
----
-
- *"Transforming raw data into intelligent solutions through machine learning and natural language processing"*
-
----
-
-📊 Data Science Portfolio | Vitor Anjos | Last Updated: October 2025
-
----
-
 ## 🚀 Getting Started
 
 ```bash
@@ -76,3 +58,21 @@ pip install -r requirements.txt
 
 # Launch Jupyter
 jupyter notebook
+```
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vitor-david-anjos-33242a107/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/DavSilvs)
+
+*Preferred contact: LinkedIn*
+
+---
+
+ *"Transforming raw data into intelligent solutions through machine learning and natural language processing"*
+
+---
+
+📊 Data Science Portfolio | Vitor Anjos | Last Updated: October 2025
