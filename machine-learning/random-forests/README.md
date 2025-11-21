@@ -3,6 +3,10 @@
 ## 🎯 Project Overview
 Advanced machine learning project predicting passenger survival on the Titanic using comprehensive analysis of multiple algorithms. Features systematic model comparison, pruning strategies, and ensemble method evaluation, with **89.6% accuracy** achieved through optimized Decision Tree.
 
+## 👁️ Live Demo
+
+[![Open in nbviewer](https://img.shields.io/badge/View_Full_Notebook-nbviewer-orange)](https://nbviewer.org/github/Vit-O-Anjos/data-science-portfolio/blob/main/machine-learning/random-forests/titanic_survival_prediction.ipynb)
+
 ## 🏆 Key Achievements
 - **Best Model Accuracy**: 89.6% (Pre-pruned Decision Tree)
 - **Critical Insight**: Proper single-model tuning outperforms complex ensembles
