@@ -94,7 +94,7 @@ I believe in:
 
 - **Certifications**: [View my certifications](certifications/)
 - **Cybersecurity Analytics**: [See cybersecurity projects](cybersecurity-analytics/)
-- **Portfolio**: [Browse full portfolio](https://github.com/Vit-O-Anjos/data-science-portfolio_0/tree/main)
+- **Portfolio**: [Browse full portfolio](https://github.com/Vit-O-Anjos/data-science-portfolio/tree/main)
 
 ## 📫 Let's Connect
 
