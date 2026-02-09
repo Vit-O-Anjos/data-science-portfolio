@@ -90,6 +90,12 @@ I believe in:
 - **Actionable insights** - ensuring analysis leads to concrete business value
 - **Continuous learning** - staying current with emerging technologies and techniques
 
+## 🔗 Quick Links
+
+- **Certifications**: [View my certifications](certifications/)
+- **Cybersecurity Analytics**: [See cybersecurity projects](cybersecurity-analytics/)
+- **Portfolio**: [Browse full portfolio](https://github.com/Vit-O-Anjos/data-science-portfolio_0/tree/main)
+
 ## 📫 Let's Connect
 
 I'm always interested in discussing data science, machine learning, and new opportunities.
