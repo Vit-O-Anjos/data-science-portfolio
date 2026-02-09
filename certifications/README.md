@@ -25,4 +25,4 @@ Constantly enhancing my data science expertise through new courses and certifica
 
 ---
 
-**🔗 Explore My Work:** [Cybersecurity analytics](../cybersecurity-analytics/) | [Machine Learning Projects](../machine-learning/) | [Full Portfolio](../)
+**🔗 Explore My Work:** [Cybersecurity Analytics](../cybersecurity-analytics/) | [Machine Learning Projects](../machine-learning/) | [Full Portfolio](../)
