@@ -22,3 +22,7 @@
 
 ## 🚀 Ongoing Skill Development
 Constantly enhancing my data science expertise through new courses and certifications, real-world projects, and hands-on experimentation with advanced tools. Regularly applying machine learning techniques and exploring emerging methodologies to stay at the forefront of the field.🌱
+
+---
+
+**🔗 Explore My Work:** [Cybersecurity analytics](../cybersecurity-analytics/) | [Machine Learning Projects](../machine-learning/) | [Full Portfolio](../)
